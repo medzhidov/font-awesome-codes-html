@@ -1,0 +1,4046 @@
+{
+	"fa-500px": {
+		"prefix": "fa-500px",
+		"body": "fa-500px",
+		"description": "fontawesome fa-500px",
+		"scope": "text.html.markdown"
+	},
+	"fa-adjust": {
+		"prefix": "fa-adjust",
+		"body": "fa-adjust",
+		"description": "fontawesome fa-adjust",
+		"scope": "text.html.markdown"
+	},
+	"fa-adn": {
+		"prefix": "fa-adn",
+		"body": "fa-adn",
+		"description": "fontawesome fa-adn",
+		"scope": "text.html.markdown"
+	},
+	"fa-align-center": {
+		"prefix": "fa-align-center",
+		"body": "fa-align-center",
+		"description": "fontawesome fa-align-center",
+		"scope": "text.html.markdown"
+	},
+	"fa-align-justify": {
+		"prefix": "fa-align-justify",
+		"body": "fa-align-justify",
+		"description": "fontawesome fa-align-justify",
+		"scope": "text.html.markdown"
+	},
+	"fa-align-left": {
+		"prefix": "fa-align-left",
+		"body": "fa-align-left",
+		"description": "fontawesome fa-align-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-align-right": {
+		"prefix": "fa-align-right",
+		"body": "fa-align-right",
+		"description": "fontawesome fa-align-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-amazon": {
+		"prefix": "fa-amazon",
+		"body": "fa-amazon",
+		"description": "fontawesome fa-amazon",
+		"scope": "text.html.markdown"
+	},
+	"fa-ambulance": {
+		"prefix": "fa-ambulance",
+		"body": "fa-ambulance",
+		"description": "fontawesome fa-ambulance",
+		"scope": "text.html.markdown"
+	},
+	"fa-anchor": {
+		"prefix": "fa-anchor",
+		"body": "fa-anchor",
+		"description": "fontawesome fa-anchor",
+		"scope": "text.html.markdown"
+	},
+	"fa-android": {
+		"prefix": "fa-android",
+		"body": "fa-android",
+		"description": "fontawesome fa-android",
+		"scope": "text.html.markdown"
+	},
+	"fa-angellist": {
+		"prefix": "fa-angellist",
+		"body": "fa-angellist",
+		"description": "fontawesome fa-angellist",
+		"scope": "text.html.markdown"
+	},
+	"fa-angle-double-down": {
+		"prefix": "fa-angle-double-down",
+		"body": "fa-angle-double-down",
+		"description": "fontawesome fa-angle-double-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-angle-double-left": {
+		"prefix": "fa-angle-double-left",
+		"body": "fa-angle-double-left",
+		"description": "fontawesome fa-angle-double-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-angle-double-right": {
+		"prefix": "fa-angle-double-right",
+		"body": "fa-angle-double-right",
+		"description": "fontawesome fa-angle-double-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-angle-double-up": {
+		"prefix": "fa-angle-double-up",
+		"body": "fa-angle-double-up",
+		"description": "fontawesome fa-angle-double-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-angle-down": {
+		"prefix": "fa-angle-down",
+		"body": "fa-angle-down",
+		"description": "fontawesome fa-angle-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-angle-left": {
+		"prefix": "fa-angle-left",
+		"body": "fa-angle-left",
+		"description": "fontawesome fa-angle-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-angle-right": {
+		"prefix": "fa-angle-right",
+		"body": "fa-angle-right",
+		"description": "fontawesome fa-angle-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-angle-up": {
+		"prefix": "fa-angle-up",
+		"body": "fa-angle-up",
+		"description": "fontawesome fa-angle-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-apple": {
+		"prefix": "fa-apple",
+		"body": "fa-apple",
+		"description": "fontawesome fa-apple",
+		"scope": "text.html.markdown"
+	},
+	"fa-archive": {
+		"prefix": "fa-archive",
+		"body": "fa-archive",
+		"description": "fontawesome fa-archive",
+		"scope": "text.html.markdown"
+	},
+	"fa-area-chart": {
+		"prefix": "fa-area-chart",
+		"body": "fa-area-chart",
+		"description": "fontawesome fa-area-chart",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-circle-down": {
+		"prefix": "fa-arrow-circle-down",
+		"body": "fa-arrow-circle-down",
+		"description": "fontawesome fa-arrow-circle-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-circle-left": {
+		"prefix": "fa-arrow-circle-left",
+		"body": "fa-arrow-circle-left",
+		"description": "fontawesome fa-arrow-circle-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-circle-o-down": {
+		"prefix": "fa-arrow-circle-o-down",
+		"body": "fa-arrow-circle-o-down",
+		"description": "fontawesome fa-arrow-circle-o-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-circle-o-left": {
+		"prefix": "fa-arrow-circle-o-left",
+		"body": "fa-arrow-circle-o-left",
+		"description": "fontawesome fa-arrow-circle-o-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-circle-o-right": {
+		"prefix": "fa-arrow-circle-o-right",
+		"body": "fa-arrow-circle-o-right",
+		"description": "fontawesome fa-arrow-circle-o-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-circle-o-up": {
+		"prefix": "fa-arrow-circle-o-up",
+		"body": "fa-arrow-circle-o-up",
+		"description": "fontawesome fa-arrow-circle-o-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-circle-right": {
+		"prefix": "fa-arrow-circle-right",
+		"body": "fa-arrow-circle-right",
+		"description": "fontawesome fa-arrow-circle-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-circle-up": {
+		"prefix": "fa-arrow-circle-up",
+		"body": "fa-arrow-circle-up",
+		"description": "fontawesome fa-arrow-circle-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-down": {
+		"prefix": "fa-arrow-down",
+		"body": "fa-arrow-down",
+		"description": "fontawesome fa-arrow-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-left": {
+		"prefix": "fa-arrow-left",
+		"body": "fa-arrow-left",
+		"description": "fontawesome fa-arrow-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-right": {
+		"prefix": "fa-arrow-right",
+		"body": "fa-arrow-right",
+		"description": "fontawesome fa-arrow-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrow-up": {
+		"prefix": "fa-arrow-up",
+		"body": "fa-arrow-up",
+		"description": "fontawesome fa-arrow-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrows-alt": {
+		"prefix": "fa-arrows-alt",
+		"body": "fa-arrows-alt",
+		"description": "fontawesome fa-arrows-alt",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrows-h": {
+		"prefix": "fa-arrows-h",
+		"body": "fa-arrows-h",
+		"description": "fontawesome fa-arrows-h",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrows-v": {
+		"prefix": "fa-arrows-v",
+		"body": "fa-arrows-v",
+		"description": "fontawesome fa-arrows-v",
+		"scope": "text.html.markdown"
+	},
+	"fa-arrows": {
+		"prefix": "fa-arrows",
+		"body": "fa-arrows",
+		"description": "fontawesome fa-arrows",
+		"scope": "text.html.markdown"
+	},
+	"fa-asterisk": {
+		"prefix": "fa-asterisk",
+		"body": "fa-asterisk",
+		"description": "fontawesome fa-asterisk",
+		"scope": "text.html.markdown"
+	},
+	"fa-at": {
+		"prefix": "fa-at",
+		"body": "fa-at",
+		"description": "fontawesome fa-at",
+		"scope": "text.html.markdown"
+	},
+	"fa-automobile": {
+		"prefix": "fa-automobile",
+		"body": "fa-automobile",
+		"description": "fontawesome fa-automobile",
+		"scope": "text.html.markdown"
+	},
+	"fa-backward": {
+		"prefix": "fa-backward",
+		"body": "fa-backward",
+		"description": "fontawesome fa-backward",
+		"scope": "text.html.markdown"
+	},
+	"fa-balance-scale": {
+		"prefix": "fa-balance-scale",
+		"body": "fa-balance-scale",
+		"description": "fontawesome fa-balance-scale",
+		"scope": "text.html.markdown"
+	},
+	"fa-ban": {
+		"prefix": "fa-ban",
+		"body": "fa-ban",
+		"description": "fontawesome fa-ban",
+		"scope": "text.html.markdown"
+	},
+	"fa-bank": {
+		"prefix": "fa-bank",
+		"body": "fa-bank",
+		"description": "fontawesome fa-bank",
+		"scope": "text.html.markdown"
+	},
+	"fa-bar-chart-o": {
+		"prefix": "fa-bar-chart-o",
+		"body": "fa-bar-chart-o",
+		"description": "fontawesome fa-bar-chart-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-bar-chart": {
+		"prefix": "fa-bar-chart",
+		"body": "fa-bar-chart",
+		"description": "fontawesome fa-bar-chart",
+		"scope": "text.html.markdown"
+	},
+	"fa-barcode": {
+		"prefix": "fa-barcode",
+		"body": "fa-barcode",
+		"description": "fontawesome fa-barcode",
+		"scope": "text.html.markdown"
+	},
+	"fa-bars": {
+		"prefix": "fa-bars",
+		"body": "fa-bars",
+		"description": "fontawesome fa-bars",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-0": {
+		"prefix": "fa-battery-0",
+		"body": "fa-battery-0",
+		"description": "fontawesome fa-battery-0",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-1": {
+		"prefix": "fa-battery-1",
+		"body": "fa-battery-1",
+		"description": "fontawesome fa-battery-1",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-2": {
+		"prefix": "fa-battery-2",
+		"body": "fa-battery-2",
+		"description": "fontawesome fa-battery-2",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-3": {
+		"prefix": "fa-battery-3",
+		"body": "fa-battery-3",
+		"description": "fontawesome fa-battery-3",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-4": {
+		"prefix": "fa-battery-4",
+		"body": "fa-battery-4",
+		"description": "fontawesome fa-battery-4",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-empty": {
+		"prefix": "fa-battery-empty",
+		"body": "fa-battery-empty",
+		"description": "fontawesome fa-battery-empty",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-full": {
+		"prefix": "fa-battery-full",
+		"body": "fa-battery-full",
+		"description": "fontawesome fa-battery-full",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-half": {
+		"prefix": "fa-battery-half",
+		"body": "fa-battery-half",
+		"description": "fontawesome fa-battery-half",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-quarter": {
+		"prefix": "fa-battery-quarter",
+		"body": "fa-battery-quarter",
+		"description": "fontawesome fa-battery-quarter",
+		"scope": "text.html.markdown"
+	},
+	"fa-battery-three-quarters": {
+		"prefix": "fa-battery-three-quarters",
+		"body": "fa-battery-three-quarters",
+		"description": "fontawesome fa-battery-three-quarters",
+		"scope": "text.html.markdown"
+	},
+	"fa-bed": {
+		"prefix": "fa-bed",
+		"body": "fa-bed",
+		"description": "fontawesome fa-bed",
+		"scope": "text.html.markdown"
+	},
+	"fa-beer": {
+		"prefix": "fa-beer",
+		"body": "fa-beer",
+		"description": "fontawesome fa-beer",
+		"scope": "text.html.markdown"
+	},
+	"fa-behance-square": {
+		"prefix": "fa-behance-square",
+		"body": "fa-behance-square",
+		"description": "fontawesome fa-behance-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-behance": {
+		"prefix": "fa-behance",
+		"body": "fa-behance",
+		"description": "fontawesome fa-behance",
+		"scope": "text.html.markdown"
+	},
+	"fa-bell-o": {
+		"prefix": "fa-bell-o",
+		"body": "fa-bell-o",
+		"description": "fontawesome fa-bell-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-bell-slash-o": {
+		"prefix": "fa-bell-slash-o",
+		"body": "fa-bell-slash-o",
+		"description": "fontawesome fa-bell-slash-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-bell-slash": {
+		"prefix": "fa-bell-slash",
+		"body": "fa-bell-slash",
+		"description": "fontawesome fa-bell-slash",
+		"scope": "text.html.markdown"
+	},
+	"fa-bell": {
+		"prefix": "fa-bell",
+		"body": "fa-bell",
+		"description": "fontawesome fa-bell",
+		"scope": "text.html.markdown"
+	},
+	"fa-bicycle": {
+		"prefix": "fa-bicycle",
+		"body": "fa-bicycle",
+		"description": "fontawesome fa-bicycle",
+		"scope": "text.html.markdown"
+	},
+	"fa-binoculars": {
+		"prefix": "fa-binoculars",
+		"body": "fa-binoculars",
+		"description": "fontawesome fa-binoculars",
+		"scope": "text.html.markdown"
+	},
+	"fa-birthday-cake": {
+		"prefix": "fa-birthday-cake",
+		"body": "fa-birthday-cake",
+		"description": "fontawesome fa-birthday-cake",
+		"scope": "text.html.markdown"
+	},
+	"fa-bitbucket-square": {
+		"prefix": "fa-bitbucket-square",
+		"body": "fa-bitbucket-square",
+		"description": "fontawesome fa-bitbucket-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-bitbucket": {
+		"prefix": "fa-bitbucket",
+		"body": "fa-bitbucket",
+		"description": "fontawesome fa-bitbucket",
+		"scope": "text.html.markdown"
+	},
+	"fa-bitcoin": {
+		"prefix": "fa-bitcoin",
+		"body": "fa-bitcoin",
+		"description": "fontawesome fa-bitcoin",
+		"scope": "text.html.markdown"
+	},
+	"fa-black-tie": {
+		"prefix": "fa-black-tie",
+		"body": "fa-black-tie",
+		"description": "fontawesome fa-black-tie",
+		"scope": "text.html.markdown"
+	},
+	"fa-bold": {
+		"prefix": "fa-bold",
+		"body": "fa-bold",
+		"description": "fontawesome fa-bold",
+		"scope": "text.html.markdown"
+	},
+	"fa-bolt": {
+		"prefix": "fa-bolt",
+		"body": "fa-bolt",
+		"description": "fontawesome fa-bolt",
+		"scope": "text.html.markdown"
+	},
+	"fa-bomb": {
+		"prefix": "fa-bomb",
+		"body": "fa-bomb",
+		"description": "fontawesome fa-bomb",
+		"scope": "text.html.markdown"
+	},
+	"fa-book": {
+		"prefix": "fa-book",
+		"body": "fa-book",
+		"description": "fontawesome fa-book",
+		"scope": "text.html.markdown"
+	},
+	"fa-bookmark-o": {
+		"prefix": "fa-bookmark-o",
+		"body": "fa-bookmark-o",
+		"description": "fontawesome fa-bookmark-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-bookmark": {
+		"prefix": "fa-bookmark",
+		"body": "fa-bookmark",
+		"description": "fontawesome fa-bookmark",
+		"scope": "text.html.markdown"
+	},
+	"fa-briefcase": {
+		"prefix": "fa-briefcase",
+		"body": "fa-briefcase",
+		"description": "fontawesome fa-briefcase",
+		"scope": "text.html.markdown"
+	},
+	"fa-btc": {
+		"prefix": "fa-btc",
+		"body": "fa-btc",
+		"description": "fontawesome fa-btc",
+		"scope": "text.html.markdown"
+	},
+	"fa-bug": {
+		"prefix": "fa-bug",
+		"body": "fa-bug",
+		"description": "fontawesome fa-bug",
+		"scope": "text.html.markdown"
+	},
+	"fa-building-o": {
+		"prefix": "fa-building-o",
+		"body": "fa-building-o",
+		"description": "fontawesome fa-building-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-building": {
+		"prefix": "fa-building",
+		"body": "fa-building",
+		"description": "fontawesome fa-building",
+		"scope": "text.html.markdown"
+	},
+	"fa-bullhorn": {
+		"prefix": "fa-bullhorn",
+		"body": "fa-bullhorn",
+		"description": "fontawesome fa-bullhorn",
+		"scope": "text.html.markdown"
+	},
+	"fa-bullseye": {
+		"prefix": "fa-bullseye",
+		"body": "fa-bullseye",
+		"description": "fontawesome fa-bullseye",
+		"scope": "text.html.markdown"
+	},
+	"fa-bus": {
+		"prefix": "fa-bus",
+		"body": "fa-bus",
+		"description": "fontawesome fa-bus",
+		"scope": "text.html.markdown"
+	},
+	"fa-buysellads": {
+		"prefix": "fa-buysellads",
+		"body": "fa-buysellads",
+		"description": "fontawesome fa-buysellads",
+		"scope": "text.html.markdown"
+	},
+	"fa-cab": {
+		"prefix": "fa-cab",
+		"body": "fa-cab",
+		"description": "fontawesome fa-cab",
+		"scope": "text.html.markdown"
+	},
+	"fa-calculator": {
+		"prefix": "fa-calculator",
+		"body": "fa-calculator",
+		"description": "fontawesome fa-calculator",
+		"scope": "text.html.markdown"
+	},
+	"fa-calendar-check-o": {
+		"prefix": "fa-calendar-check-o",
+		"body": "fa-calendar-check-o",
+		"description": "fontawesome fa-calendar-check-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-calendar-minus-o": {
+		"prefix": "fa-calendar-minus-o",
+		"body": "fa-calendar-minus-o",
+		"description": "fontawesome fa-calendar-minus-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-calendar-o": {
+		"prefix": "fa-calendar-o",
+		"body": "fa-calendar-o",
+		"description": "fontawesome fa-calendar-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-calendar-plus-o": {
+		"prefix": "fa-calendar-plus-o",
+		"body": "fa-calendar-plus-o",
+		"description": "fontawesome fa-calendar-plus-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-calendar-times-o": {
+		"prefix": "fa-calendar-times-o",
+		"body": "fa-calendar-times-o",
+		"description": "fontawesome fa-calendar-times-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-calendar": {
+		"prefix": "fa-calendar",
+		"body": "fa-calendar",
+		"description": "fontawesome fa-calendar",
+		"scope": "text.html.markdown"
+	},
+	"fa-camera-retro": {
+		"prefix": "fa-camera-retro",
+		"body": "fa-camera-retro",
+		"description": "fontawesome fa-camera-retro",
+		"scope": "text.html.markdown"
+	},
+	"fa-camera": {
+		"prefix": "fa-camera",
+		"body": "fa-camera",
+		"description": "fontawesome fa-camera",
+		"scope": "text.html.markdown"
+	},
+	"fa-car": {
+		"prefix": "fa-car",
+		"body": "fa-car",
+		"description": "fontawesome fa-car",
+		"scope": "text.html.markdown"
+	},
+	"fa-caret-down": {
+		"prefix": "fa-caret-down",
+		"body": "fa-caret-down",
+		"description": "fontawesome fa-caret-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-caret-left": {
+		"prefix": "fa-caret-left",
+		"body": "fa-caret-left",
+		"description": "fontawesome fa-caret-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-caret-right": {
+		"prefix": "fa-caret-right",
+		"body": "fa-caret-right",
+		"description": "fontawesome fa-caret-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-caret-square-o-down": {
+		"prefix": "fa-caret-square-o-down",
+		"body": "fa-caret-square-o-down",
+		"description": "fontawesome fa-caret-square-o-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-caret-square-o-left": {
+		"prefix": "fa-caret-square-o-left",
+		"body": "fa-caret-square-o-left",
+		"description": "fontawesome fa-caret-square-o-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-caret-square-o-right": {
+		"prefix": "fa-caret-square-o-right",
+		"body": "fa-caret-square-o-right",
+		"description": "fontawesome fa-caret-square-o-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-caret-square-o-up": {
+		"prefix": "fa-caret-square-o-up",
+		"body": "fa-caret-square-o-up",
+		"description": "fontawesome fa-caret-square-o-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-caret-up": {
+		"prefix": "fa-caret-up",
+		"body": "fa-caret-up",
+		"description": "fontawesome fa-caret-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-cart-arrow-down": {
+		"prefix": "fa-cart-arrow-down",
+		"body": "fa-cart-arrow-down",
+		"description": "fontawesome fa-cart-arrow-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-cart-plus": {
+		"prefix": "fa-cart-plus",
+		"body": "fa-cart-plus",
+		"description": "fontawesome fa-cart-plus",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc-amex": {
+		"prefix": "fa-cc-amex",
+		"body": "fa-cc-amex",
+		"description": "fontawesome fa-cc-amex",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc-diners-club": {
+		"prefix": "fa-cc-diners-club",
+		"body": "fa-cc-diners-club",
+		"description": "fontawesome fa-cc-diners-club",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc-discover": {
+		"prefix": "fa-cc-discover",
+		"body": "fa-cc-discover",
+		"description": "fontawesome fa-cc-discover",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc-jcb": {
+		"prefix": "fa-cc-jcb",
+		"body": "fa-cc-jcb",
+		"description": "fontawesome fa-cc-jcb",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc-mastercard": {
+		"prefix": "fa-cc-mastercard",
+		"body": "fa-cc-mastercard",
+		"description": "fontawesome fa-cc-mastercard",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc-paypal": {
+		"prefix": "fa-cc-paypal",
+		"body": "fa-cc-paypal",
+		"description": "fontawesome fa-cc-paypal",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc-stripe": {
+		"prefix": "fa-cc-stripe",
+		"body": "fa-cc-stripe",
+		"description": "fontawesome fa-cc-stripe",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc-visa": {
+		"prefix": "fa-cc-visa",
+		"body": "fa-cc-visa",
+		"description": "fontawesome fa-cc-visa",
+		"scope": "text.html.markdown"
+	},
+	"fa-cc": {
+		"prefix": "fa-cc",
+		"body": "fa-cc",
+		"description": "fontawesome fa-cc",
+		"scope": "text.html.markdown"
+	},
+	"fa-certificate": {
+		"prefix": "fa-certificate",
+		"body": "fa-certificate",
+		"description": "fontawesome fa-certificate",
+		"scope": "text.html.markdown"
+	},
+	"fa-chain-broken": {
+		"prefix": "fa-chain-broken",
+		"body": "fa-chain-broken",
+		"description": "fontawesome fa-chain-broken",
+		"scope": "text.html.markdown"
+	},
+	"fa-chain": {
+		"prefix": "fa-chain",
+		"body": "fa-chain",
+		"description": "fontawesome fa-chain",
+		"scope": "text.html.markdown"
+	},
+	"fa-check-circle-o": {
+		"prefix": "fa-check-circle-o",
+		"body": "fa-check-circle-o",
+		"description": "fontawesome fa-check-circle-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-check-circle": {
+		"prefix": "fa-check-circle",
+		"body": "fa-check-circle",
+		"description": "fontawesome fa-check-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-check-square-o": {
+		"prefix": "fa-check-square-o",
+		"body": "fa-check-square-o",
+		"description": "fontawesome fa-check-square-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-check-square": {
+		"prefix": "fa-check-square",
+		"body": "fa-check-square",
+		"description": "fontawesome fa-check-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-check": {
+		"prefix": "fa-check",
+		"body": "fa-check",
+		"description": "fontawesome fa-check",
+		"scope": "text.html.markdown"
+	},
+	"fa-chevron-circle-down": {
+		"prefix": "fa-chevron-circle-down",
+		"body": "fa-chevron-circle-down",
+		"description": "fontawesome fa-chevron-circle-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-chevron-circle-left": {
+		"prefix": "fa-chevron-circle-left",
+		"body": "fa-chevron-circle-left",
+		"description": "fontawesome fa-chevron-circle-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-chevron-circle-right": {
+		"prefix": "fa-chevron-circle-right",
+		"body": "fa-chevron-circle-right",
+		"description": "fontawesome fa-chevron-circle-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-chevron-circle-up": {
+		"prefix": "fa-chevron-circle-up",
+		"body": "fa-chevron-circle-up",
+		"description": "fontawesome fa-chevron-circle-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-chevron-down": {
+		"prefix": "fa-chevron-down",
+		"body": "fa-chevron-down",
+		"description": "fontawesome fa-chevron-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-chevron-left": {
+		"prefix": "fa-chevron-left",
+		"body": "fa-chevron-left",
+		"description": "fontawesome fa-chevron-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-chevron-right": {
+		"prefix": "fa-chevron-right",
+		"body": "fa-chevron-right",
+		"description": "fontawesome fa-chevron-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-chevron-up": {
+		"prefix": "fa-chevron-up",
+		"body": "fa-chevron-up",
+		"description": "fontawesome fa-chevron-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-child": {
+		"prefix": "fa-child",
+		"body": "fa-child",
+		"description": "fontawesome fa-child",
+		"scope": "text.html.markdown"
+	},
+	"fa-chrome": {
+		"prefix": "fa-chrome",
+		"body": "fa-chrome",
+		"description": "fontawesome fa-chrome",
+		"scope": "text.html.markdown"
+	},
+	"fa-circle-o-notch": {
+		"prefix": "fa-circle-o-notch",
+		"body": "fa-circle-o-notch",
+		"description": "fontawesome fa-circle-o-notch",
+		"scope": "text.html.markdown"
+	},
+	"fa-circle-o": {
+		"prefix": "fa-circle-o",
+		"body": "fa-circle-o",
+		"description": "fontawesome fa-circle-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-circle-thin": {
+		"prefix": "fa-circle-thin",
+		"body": "fa-circle-thin",
+		"description": "fontawesome fa-circle-thin",
+		"scope": "text.html.markdown"
+	},
+	"fa-circle": {
+		"prefix": "fa-circle",
+		"body": "fa-circle",
+		"description": "fontawesome fa-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-clipboard": {
+		"prefix": "fa-clipboard",
+		"body": "fa-clipboard",
+		"description": "fontawesome fa-clipboard",
+		"scope": "text.html.markdown"
+	},
+	"fa-clock-o": {
+		"prefix": "fa-clock-o",
+		"body": "fa-clock-o",
+		"description": "fontawesome fa-clock-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-clone": {
+		"prefix": "fa-clone",
+		"body": "fa-clone",
+		"description": "fontawesome fa-clone",
+		"scope": "text.html.markdown"
+	},
+	"fa-close": {
+		"prefix": "fa-close",
+		"body": "fa-close",
+		"description": "fontawesome fa-close",
+		"scope": "text.html.markdown"
+	},
+	"fa-cloud-download": {
+		"prefix": "fa-cloud-download",
+		"body": "fa-cloud-download",
+		"description": "fontawesome fa-cloud-download",
+		"scope": "text.html.markdown"
+	},
+	"fa-cloud-upload": {
+		"prefix": "fa-cloud-upload",
+		"body": "fa-cloud-upload",
+		"description": "fontawesome fa-cloud-upload",
+		"scope": "text.html.markdown"
+	},
+	"fa-cloud": {
+		"prefix": "fa-cloud",
+		"body": "fa-cloud",
+		"description": "fontawesome fa-cloud",
+		"scope": "text.html.markdown"
+	},
+	"fa-cny": {
+		"prefix": "fa-cny",
+		"body": "fa-cny",
+		"description": "fontawesome fa-cny",
+		"scope": "text.html.markdown"
+	},
+	"fa-code-fork": {
+		"prefix": "fa-code-fork",
+		"body": "fa-code-fork",
+		"description": "fontawesome fa-code-fork",
+		"scope": "text.html.markdown"
+	},
+	"fa-code": {
+		"prefix": "fa-code",
+		"body": "fa-code",
+		"description": "fontawesome fa-code",
+		"scope": "text.html.markdown"
+	},
+	"fa-codepen": {
+		"prefix": "fa-codepen",
+		"body": "fa-codepen",
+		"description": "fontawesome fa-codepen",
+		"scope": "text.html.markdown"
+	},
+	"fa-coffee": {
+		"prefix": "fa-coffee",
+		"body": "fa-coffee",
+		"description": "fontawesome fa-coffee",
+		"scope": "text.html.markdown"
+	},
+	"fa-cog": {
+		"prefix": "fa-cog",
+		"body": "fa-cog",
+		"description": "fontawesome fa-cog",
+		"scope": "text.html.markdown"
+	},
+	"fa-cogs": {
+		"prefix": "fa-cogs",
+		"body": "fa-cogs",
+		"description": "fontawesome fa-cogs",
+		"scope": "text.html.markdown"
+	},
+	"fa-columns": {
+		"prefix": "fa-columns",
+		"body": "fa-columns",
+		"description": "fontawesome fa-columns",
+		"scope": "text.html.markdown"
+	},
+	"fa-comment-o": {
+		"prefix": "fa-comment-o",
+		"body": "fa-comment-o",
+		"description": "fontawesome fa-comment-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-comment": {
+		"prefix": "fa-comment",
+		"body": "fa-comment",
+		"description": "fontawesome fa-comment",
+		"scope": "text.html.markdown"
+	},
+	"fa-commenting-o": {
+		"prefix": "fa-commenting-o",
+		"body": "fa-commenting-o",
+		"description": "fontawesome fa-commenting-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-commenting": {
+		"prefix": "fa-commenting",
+		"body": "fa-commenting",
+		"description": "fontawesome fa-commenting",
+		"scope": "text.html.markdown"
+	},
+	"fa-comments-o": {
+		"prefix": "fa-comments-o",
+		"body": "fa-comments-o",
+		"description": "fontawesome fa-comments-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-comments": {
+		"prefix": "fa-comments",
+		"body": "fa-comments",
+		"description": "fontawesome fa-comments",
+		"scope": "text.html.markdown"
+	},
+	"fa-compass": {
+		"prefix": "fa-compass",
+		"body": "fa-compass",
+		"description": "fontawesome fa-compass",
+		"scope": "text.html.markdown"
+	},
+	"fa-compress": {
+		"prefix": "fa-compress",
+		"body": "fa-compress",
+		"description": "fontawesome fa-compress",
+		"scope": "text.html.markdown"
+	},
+	"fa-connectdevelop": {
+		"prefix": "fa-connectdevelop",
+		"body": "fa-connectdevelop",
+		"description": "fontawesome fa-connectdevelop",
+		"scope": "text.html.markdown"
+	},
+	"fa-contao": {
+		"prefix": "fa-contao",
+		"body": "fa-contao",
+		"description": "fontawesome fa-contao",
+		"scope": "text.html.markdown"
+	},
+	"fa-copy": {
+		"prefix": "fa-copy",
+		"body": "fa-copy",
+		"description": "fontawesome fa-copy",
+		"scope": "text.html.markdown"
+	},
+	"fa-copyright": {
+		"prefix": "fa-copyright",
+		"body": "fa-copyright",
+		"description": "fontawesome fa-copyright",
+		"scope": "text.html.markdown"
+	},
+	"fa-creative-commons": {
+		"prefix": "fa-creative-commons",
+		"body": "fa-creative-commons",
+		"description": "fontawesome fa-creative-commons",
+		"scope": "text.html.markdown"
+	},
+	"fa-credit-card": {
+		"prefix": "fa-credit-card",
+		"body": "fa-credit-card",
+		"description": "fontawesome fa-credit-card",
+		"scope": "text.html.markdown"
+	},
+	"fa-crop": {
+		"prefix": "fa-crop",
+		"body": "fa-crop",
+		"description": "fontawesome fa-crop",
+		"scope": "text.html.markdown"
+	},
+	"fa-crosshairs": {
+		"prefix": "fa-crosshairs",
+		"body": "fa-crosshairs",
+		"description": "fontawesome fa-crosshairs",
+		"scope": "text.html.markdown"
+	},
+	"fa-css3": {
+		"prefix": "fa-css3",
+		"body": "fa-css3",
+		"description": "fontawesome fa-css3",
+		"scope": "text.html.markdown"
+	},
+	"fa-cube": {
+		"prefix": "fa-cube",
+		"body": "fa-cube",
+		"description": "fontawesome fa-cube",
+		"scope": "text.html.markdown"
+	},
+	"fa-cubes": {
+		"prefix": "fa-cubes",
+		"body": "fa-cubes",
+		"description": "fontawesome fa-cubes",
+		"scope": "text.html.markdown"
+	},
+	"fa-cut": {
+		"prefix": "fa-cut",
+		"body": "fa-cut",
+		"description": "fontawesome fa-cut",
+		"scope": "text.html.markdown"
+	},
+	"fa-cutlery": {
+		"prefix": "fa-cutlery",
+		"body": "fa-cutlery",
+		"description": "fontawesome fa-cutlery",
+		"scope": "text.html.markdown"
+	},
+	"fa-dashboard": {
+		"prefix": "fa-dashboard",
+		"body": "fa-dashboard",
+		"description": "fontawesome fa-dashboard",
+		"scope": "text.html.markdown"
+	},
+	"fa-dashcube": {
+		"prefix": "fa-dashcube",
+		"body": "fa-dashcube",
+		"description": "fontawesome fa-dashcube",
+		"scope": "text.html.markdown"
+	},
+	"fa-database": {
+		"prefix": "fa-database",
+		"body": "fa-database",
+		"description": "fontawesome fa-database",
+		"scope": "text.html.markdown"
+	},
+	"fa-dedent": {
+		"prefix": "fa-dedent",
+		"body": "fa-dedent",
+		"description": "fontawesome fa-dedent",
+		"scope": "text.html.markdown"
+	},
+	"fa-delicious": {
+		"prefix": "fa-delicious",
+		"body": "fa-delicious",
+		"description": "fontawesome fa-delicious",
+		"scope": "text.html.markdown"
+	},
+	"fa-desktop": {
+		"prefix": "fa-desktop",
+		"body": "fa-desktop",
+		"description": "fontawesome fa-desktop",
+		"scope": "text.html.markdown"
+	},
+	"fa-deviantart": {
+		"prefix": "fa-deviantart",
+		"body": "fa-deviantart",
+		"description": "fontawesome fa-deviantart",
+		"scope": "text.html.markdown"
+	},
+	"fa-diamond": {
+		"prefix": "fa-diamond",
+		"body": "fa-diamond",
+		"description": "fontawesome fa-diamond",
+		"scope": "text.html.markdown"
+	},
+	"fa-digg": {
+		"prefix": "fa-digg",
+		"body": "fa-digg",
+		"description": "fontawesome fa-digg",
+		"scope": "text.html.markdown"
+	},
+	"fa-dollar": {
+		"prefix": "fa-dollar",
+		"body": "fa-dollar",
+		"description": "fontawesome fa-dollar",
+		"scope": "text.html.markdown"
+	},
+	"fa-dot-circle-o": {
+		"prefix": "fa-dot-circle-o",
+		"body": "fa-dot-circle-o",
+		"description": "fontawesome fa-dot-circle-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-download": {
+		"prefix": "fa-download",
+		"body": "fa-download",
+		"description": "fontawesome fa-download",
+		"scope": "text.html.markdown"
+	},
+	"fa-dribbble": {
+		"prefix": "fa-dribbble",
+		"body": "fa-dribbble",
+		"description": "fontawesome fa-dribbble",
+		"scope": "text.html.markdown"
+	},
+	"fa-dropbox": {
+		"prefix": "fa-dropbox",
+		"body": "fa-dropbox",
+		"description": "fontawesome fa-dropbox",
+		"scope": "text.html.markdown"
+	},
+	"fa-drupal": {
+		"prefix": "fa-drupal",
+		"body": "fa-drupal",
+		"description": "fontawesome fa-drupal",
+		"scope": "text.html.markdown"
+	},
+	"fa-edit": {
+		"prefix": "fa-edit",
+		"body": "fa-edit",
+		"description": "fontawesome fa-edit",
+		"scope": "text.html.markdown"
+	},
+	"fa-eject": {
+		"prefix": "fa-eject",
+		"body": "fa-eject",
+		"description": "fontawesome fa-eject",
+		"scope": "text.html.markdown"
+	},
+	"fa-ellipsis-h": {
+		"prefix": "fa-ellipsis-h",
+		"body": "fa-ellipsis-h",
+		"description": "fontawesome fa-ellipsis-h",
+		"scope": "text.html.markdown"
+	},
+	"fa-ellipsis-v": {
+		"prefix": "fa-ellipsis-v",
+		"body": "fa-ellipsis-v",
+		"description": "fontawesome fa-ellipsis-v",
+		"scope": "text.html.markdown"
+	},
+	"fa-empire": {
+		"prefix": "fa-empire",
+		"body": "fa-empire",
+		"description": "fontawesome fa-empire",
+		"scope": "text.html.markdown"
+	},
+	"fa-envelope-o": {
+		"prefix": "fa-envelope-o",
+		"body": "fa-envelope-o",
+		"description": "fontawesome fa-envelope-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-envelope-square": {
+		"prefix": "fa-envelope-square",
+		"body": "fa-envelope-square",
+		"description": "fontawesome fa-envelope-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-envelope": {
+		"prefix": "fa-envelope",
+		"body": "fa-envelope",
+		"description": "fontawesome fa-envelope",
+		"scope": "text.html.markdown"
+	},
+	"fa-eraser": {
+		"prefix": "fa-eraser",
+		"body": "fa-eraser",
+		"description": "fontawesome fa-eraser",
+		"scope": "text.html.markdown"
+	},
+	"fa-eur": {
+		"prefix": "fa-eur",
+		"body": "fa-eur",
+		"description": "fontawesome fa-eur",
+		"scope": "text.html.markdown"
+	},
+	"fa-euro": {
+		"prefix": "fa-euro",
+		"body": "fa-euro",
+		"description": "fontawesome fa-euro",
+		"scope": "text.html.markdown"
+	},
+	"fa-exchange": {
+		"prefix": "fa-exchange",
+		"body": "fa-exchange",
+		"description": "fontawesome fa-exchange",
+		"scope": "text.html.markdown"
+	},
+	"fa-exclamation-circle": {
+		"prefix": "fa-exclamation-circle",
+		"body": "fa-exclamation-circle",
+		"description": "fontawesome fa-exclamation-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-exclamation-triangle": {
+		"prefix": "fa-exclamation-triangle",
+		"body": "fa-exclamation-triangle",
+		"description": "fontawesome fa-exclamation-triangle",
+		"scope": "text.html.markdown"
+	},
+	"fa-exclamation": {
+		"prefix": "fa-exclamation",
+		"body": "fa-exclamation",
+		"description": "fontawesome fa-exclamation",
+		"scope": "text.html.markdown"
+	},
+	"fa-expand": {
+		"prefix": "fa-expand",
+		"body": "fa-expand",
+		"description": "fontawesome fa-expand",
+		"scope": "text.html.markdown"
+	},
+	"fa-expeditedssl": {
+		"prefix": "fa-expeditedssl",
+		"body": "fa-expeditedssl",
+		"description": "fontawesome fa-expeditedssl",
+		"scope": "text.html.markdown"
+	},
+	"fa-external-link-square": {
+		"prefix": "fa-external-link-square",
+		"body": "fa-external-link-square",
+		"description": "fontawesome fa-external-link-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-external-link": {
+		"prefix": "fa-external-link",
+		"body": "fa-external-link",
+		"description": "fontawesome fa-external-link",
+		"scope": "text.html.markdown"
+	},
+	"fa-eye-slash": {
+		"prefix": "fa-eye-slash",
+		"body": "fa-eye-slash",
+		"description": "fontawesome fa-eye-slash",
+		"scope": "text.html.markdown"
+	},
+	"fa-eye": {
+		"prefix": "fa-eye",
+		"body": "fa-eye",
+		"description": "fontawesome fa-eye",
+		"scope": "text.html.markdown"
+	},
+	"fa-eyedropper": {
+		"prefix": "fa-eyedropper",
+		"body": "fa-eyedropper",
+		"description": "fontawesome fa-eyedropper",
+		"scope": "text.html.markdown"
+	},
+	"fa-facebook-f": {
+		"prefix": "fa-facebook-f",
+		"body": "fa-facebook-f",
+		"description": "fontawesome fa-facebook-f",
+		"scope": "text.html.markdown"
+	},
+	"fa-facebook-official": {
+		"prefix": "fa-facebook-official",
+		"body": "fa-facebook-official",
+		"description": "fontawesome fa-facebook-official",
+		"scope": "text.html.markdown"
+	},
+	"fa-facebook-square": {
+		"prefix": "fa-facebook-square",
+		"body": "fa-facebook-square",
+		"description": "fontawesome fa-facebook-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-facebook": {
+		"prefix": "fa-facebook",
+		"body": "fa-facebook",
+		"description": "fontawesome fa-facebook",
+		"scope": "text.html.markdown"
+	},
+	"fa-fast-backward": {
+		"prefix": "fa-fast-backward",
+		"body": "fa-fast-backward",
+		"description": "fontawesome fa-fast-backward",
+		"scope": "text.html.markdown"
+	},
+	"fa-fast-forward": {
+		"prefix": "fa-fast-forward",
+		"body": "fa-fast-forward",
+		"description": "fontawesome fa-fast-forward",
+		"scope": "text.html.markdown"
+	},
+	"fa-fax": {
+		"prefix": "fa-fax",
+		"body": "fa-fax",
+		"description": "fontawesome fa-fax",
+		"scope": "text.html.markdown"
+	},
+	"fa-feed": {
+		"prefix": "fa-feed",
+		"body": "fa-feed",
+		"description": "fontawesome fa-feed",
+		"scope": "text.html.markdown"
+	},
+	"fa-female": {
+		"prefix": "fa-female",
+		"body": "fa-female",
+		"description": "fontawesome fa-female",
+		"scope": "text.html.markdown"
+	},
+	"fa-fighter-jet": {
+		"prefix": "fa-fighter-jet",
+		"body": "fa-fighter-jet",
+		"description": "fontawesome fa-fighter-jet",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-archive-o": {
+		"prefix": "fa-file-archive-o",
+		"body": "fa-file-archive-o",
+		"description": "fontawesome fa-file-archive-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-audio-o": {
+		"prefix": "fa-file-audio-o",
+		"body": "fa-file-audio-o",
+		"description": "fontawesome fa-file-audio-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-code-o": {
+		"prefix": "fa-file-code-o",
+		"body": "fa-file-code-o",
+		"description": "fontawesome fa-file-code-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-excel-o": {
+		"prefix": "fa-file-excel-o",
+		"body": "fa-file-excel-o",
+		"description": "fontawesome fa-file-excel-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-image-o": {
+		"prefix": "fa-file-image-o",
+		"body": "fa-file-image-o",
+		"description": "fontawesome fa-file-image-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-movie-o": {
+		"prefix": "fa-file-movie-o",
+		"body": "fa-file-movie-o",
+		"description": "fontawesome fa-file-movie-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-o": {
+		"prefix": "fa-file-o",
+		"body": "fa-file-o",
+		"description": "fontawesome fa-file-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-pdf-o": {
+		"prefix": "fa-file-pdf-o",
+		"body": "fa-file-pdf-o",
+		"description": "fontawesome fa-file-pdf-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-photo-o": {
+		"prefix": "fa-file-photo-o",
+		"body": "fa-file-photo-o",
+		"description": "fontawesome fa-file-photo-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-picture-o": {
+		"prefix": "fa-file-picture-o",
+		"body": "fa-file-picture-o",
+		"description": "fontawesome fa-file-picture-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-powerpoint-o": {
+		"prefix": "fa-file-powerpoint-o",
+		"body": "fa-file-powerpoint-o",
+		"description": "fontawesome fa-file-powerpoint-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-sound-o": {
+		"prefix": "fa-file-sound-o",
+		"body": "fa-file-sound-o",
+		"description": "fontawesome fa-file-sound-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-text-o": {
+		"prefix": "fa-file-text-o",
+		"body": "fa-file-text-o",
+		"description": "fontawesome fa-file-text-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-text": {
+		"prefix": "fa-file-text",
+		"body": "fa-file-text",
+		"description": "fontawesome fa-file-text",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-video-o": {
+		"prefix": "fa-file-video-o",
+		"body": "fa-file-video-o",
+		"description": "fontawesome fa-file-video-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-word-o": {
+		"prefix": "fa-file-word-o",
+		"body": "fa-file-word-o",
+		"description": "fontawesome fa-file-word-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file-zip-o": {
+		"prefix": "fa-file-zip-o",
+		"body": "fa-file-zip-o",
+		"description": "fontawesome fa-file-zip-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-file": {
+		"prefix": "fa-file",
+		"body": "fa-file",
+		"description": "fontawesome fa-file",
+		"scope": "text.html.markdown"
+	},
+	"fa-files-o": {
+		"prefix": "fa-files-o",
+		"body": "fa-files-o",
+		"description": "fontawesome fa-files-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-film": {
+		"prefix": "fa-film",
+		"body": "fa-film",
+		"description": "fontawesome fa-film",
+		"scope": "text.html.markdown"
+	},
+	"fa-filter": {
+		"prefix": "fa-filter",
+		"body": "fa-filter",
+		"description": "fontawesome fa-filter",
+		"scope": "text.html.markdown"
+	},
+	"fa-fire-extinguisher": {
+		"prefix": "fa-fire-extinguisher",
+		"body": "fa-fire-extinguisher",
+		"description": "fontawesome fa-fire-extinguisher",
+		"scope": "text.html.markdown"
+	},
+	"fa-fire": {
+		"prefix": "fa-fire",
+		"body": "fa-fire",
+		"description": "fontawesome fa-fire",
+		"scope": "text.html.markdown"
+	},
+	"fa-firefox": {
+		"prefix": "fa-firefox",
+		"body": "fa-firefox",
+		"description": "fontawesome fa-firefox",
+		"scope": "text.html.markdown"
+	},
+	"fa-flag-checkered": {
+		"prefix": "fa-flag-checkered",
+		"body": "fa-flag-checkered",
+		"description": "fontawesome fa-flag-checkered",
+		"scope": "text.html.markdown"
+	},
+	"fa-flag-o": {
+		"prefix": "fa-flag-o",
+		"body": "fa-flag-o",
+		"description": "fontawesome fa-flag-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-flag": {
+		"prefix": "fa-flag",
+		"body": "fa-flag",
+		"description": "fontawesome fa-flag",
+		"scope": "text.html.markdown"
+	},
+	"fa-flash": {
+		"prefix": "fa-flash",
+		"body": "fa-flash",
+		"description": "fontawesome fa-flash",
+		"scope": "text.html.markdown"
+	},
+	"fa-flask": {
+		"prefix": "fa-flask",
+		"body": "fa-flask",
+		"description": "fontawesome fa-flask",
+		"scope": "text.html.markdown"
+	},
+	"fa-flickr": {
+		"prefix": "fa-flickr",
+		"body": "fa-flickr",
+		"description": "fontawesome fa-flickr",
+		"scope": "text.html.markdown"
+	},
+	"fa-floppy-o": {
+		"prefix": "fa-floppy-o",
+		"body": "fa-floppy-o",
+		"description": "fontawesome fa-floppy-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-folder-o": {
+		"prefix": "fa-folder-o",
+		"body": "fa-folder-o",
+		"description": "fontawesome fa-folder-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-folder-open-o": {
+		"prefix": "fa-folder-open-o",
+		"body": "fa-folder-open-o",
+		"description": "fontawesome fa-folder-open-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-folder-open": {
+		"prefix": "fa-folder-open",
+		"body": "fa-folder-open",
+		"description": "fontawesome fa-folder-open",
+		"scope": "text.html.markdown"
+	},
+	"fa-folder": {
+		"prefix": "fa-folder",
+		"body": "fa-folder",
+		"description": "fontawesome fa-folder",
+		"scope": "text.html.markdown"
+	},
+	"fa-font": {
+		"prefix": "fa-font",
+		"body": "fa-font",
+		"description": "fontawesome fa-font",
+		"scope": "text.html.markdown"
+	},
+	"fa-fonticons": {
+		"prefix": "fa-fonticons",
+		"body": "fa-fonticons",
+		"description": "fontawesome fa-fonticons",
+		"scope": "text.html.markdown"
+	},
+	"fa-forumbee": {
+		"prefix": "fa-forumbee",
+		"body": "fa-forumbee",
+		"description": "fontawesome fa-forumbee",
+		"scope": "text.html.markdown"
+	},
+	"fa-forward": {
+		"prefix": "fa-forward",
+		"body": "fa-forward",
+		"description": "fontawesome fa-forward",
+		"scope": "text.html.markdown"
+	},
+	"fa-foursquare": {
+		"prefix": "fa-foursquare",
+		"body": "fa-foursquare",
+		"description": "fontawesome fa-foursquare",
+		"scope": "text.html.markdown"
+	},
+	"fa-frown-o": {
+		"prefix": "fa-frown-o",
+		"body": "fa-frown-o",
+		"description": "fontawesome fa-frown-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-futbol-o": {
+		"prefix": "fa-futbol-o",
+		"body": "fa-futbol-o",
+		"description": "fontawesome fa-futbol-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-gamepad": {
+		"prefix": "fa-gamepad",
+		"body": "fa-gamepad",
+		"description": "fontawesome fa-gamepad",
+		"scope": "text.html.markdown"
+	},
+	"fa-gavel": {
+		"prefix": "fa-gavel",
+		"body": "fa-gavel",
+		"description": "fontawesome fa-gavel",
+		"scope": "text.html.markdown"
+	},
+	"fa-gbp": {
+		"prefix": "fa-gbp",
+		"body": "fa-gbp",
+		"description": "fontawesome fa-gbp",
+		"scope": "text.html.markdown"
+	},
+	"fa-ge": {
+		"prefix": "fa-ge",
+		"body": "fa-ge",
+		"description": "fontawesome fa-ge",
+		"scope": "text.html.markdown"
+	},
+	"fa-gear": {
+		"prefix": "fa-gear",
+		"body": "fa-gear",
+		"description": "fontawesome fa-gear",
+		"scope": "text.html.markdown"
+	},
+	"fa-gears": {
+		"prefix": "fa-gears",
+		"body": "fa-gears",
+		"description": "fontawesome fa-gears",
+		"scope": "text.html.markdown"
+	},
+	"fa-genderless": {
+		"prefix": "fa-genderless",
+		"body": "fa-genderless",
+		"description": "fontawesome fa-genderless",
+		"scope": "text.html.markdown"
+	},
+	"fa-get-pocket": {
+		"prefix": "fa-get-pocket",
+		"body": "fa-get-pocket",
+		"description": "fontawesome fa-get-pocket",
+		"scope": "text.html.markdown"
+	},
+	"fa-gg-circle": {
+		"prefix": "fa-gg-circle",
+		"body": "fa-gg-circle",
+		"description": "fontawesome fa-gg-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-gg": {
+		"prefix": "fa-gg",
+		"body": "fa-gg",
+		"description": "fontawesome fa-gg",
+		"scope": "text.html.markdown"
+	},
+	"fa-gift": {
+		"prefix": "fa-gift",
+		"body": "fa-gift",
+		"description": "fontawesome fa-gift",
+		"scope": "text.html.markdown"
+	},
+	"fa-git-square": {
+		"prefix": "fa-git-square",
+		"body": "fa-git-square",
+		"description": "fontawesome fa-git-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-git": {
+		"prefix": "fa-git",
+		"body": "fa-git",
+		"description": "fontawesome fa-git",
+		"scope": "text.html.markdown"
+	},
+	"fa-github-alt": {
+		"prefix": "fa-github-alt",
+		"body": "fa-github-alt",
+		"description": "fontawesome fa-github-alt",
+		"scope": "text.html.markdown"
+	},
+	"fa-github-square": {
+		"prefix": "fa-github-square",
+		"body": "fa-github-square",
+		"description": "fontawesome fa-github-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-github": {
+		"prefix": "fa-github",
+		"body": "fa-github",
+		"description": "fontawesome fa-github",
+		"scope": "text.html.markdown"
+	},
+	"fa-gittip": {
+		"prefix": "fa-gittip",
+		"body": "fa-gittip",
+		"description": "fontawesome fa-gittip",
+		"scope": "text.html.markdown"
+	},
+	"fa-glass": {
+		"prefix": "fa-glass",
+		"body": "fa-glass",
+		"description": "fontawesome fa-glass",
+		"scope": "text.html.markdown"
+	},
+	"fa-globe": {
+		"prefix": "fa-globe",
+		"body": "fa-globe",
+		"description": "fontawesome fa-globe",
+		"scope": "text.html.markdown"
+	},
+	"fa-google-plus-square": {
+		"prefix": "fa-google-plus-square",
+		"body": "fa-google-plus-square",
+		"description": "fontawesome fa-google-plus-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-google-plus": {
+		"prefix": "fa-google-plus",
+		"body": "fa-google-plus",
+		"description": "fontawesome fa-google-plus",
+		"scope": "text.html.markdown"
+	},
+	"fa-google-wallet": {
+		"prefix": "fa-google-wallet",
+		"body": "fa-google-wallet",
+		"description": "fontawesome fa-google-wallet",
+		"scope": "text.html.markdown"
+	},
+	"fa-google": {
+		"prefix": "fa-google",
+		"body": "fa-google",
+		"description": "fontawesome fa-google",
+		"scope": "text.html.markdown"
+	},
+	"fa-graduation-cap": {
+		"prefix": "fa-graduation-cap",
+		"body": "fa-graduation-cap",
+		"description": "fontawesome fa-graduation-cap",
+		"scope": "text.html.markdown"
+	},
+	"fa-gratipay": {
+		"prefix": "fa-gratipay",
+		"body": "fa-gratipay",
+		"description": "fontawesome fa-gratipay",
+		"scope": "text.html.markdown"
+	},
+	"fa-group": {
+		"prefix": "fa-group",
+		"body": "fa-group",
+		"description": "fontawesome fa-group",
+		"scope": "text.html.markdown"
+	},
+	"fa-h-square": {
+		"prefix": "fa-h-square",
+		"body": "fa-h-square",
+		"description": "fontawesome fa-h-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-hacker-news": {
+		"prefix": "fa-hacker-news",
+		"body": "fa-hacker-news",
+		"description": "fontawesome fa-hacker-news",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-grab-o": {
+		"prefix": "fa-hand-grab-o",
+		"body": "fa-hand-grab-o",
+		"description": "fontawesome fa-hand-grab-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-lizard-o": {
+		"prefix": "fa-hand-lizard-o",
+		"body": "fa-hand-lizard-o",
+		"description": "fontawesome fa-hand-lizard-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-o-down": {
+		"prefix": "fa-hand-o-down",
+		"body": "fa-hand-o-down",
+		"description": "fontawesome fa-hand-o-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-o-left": {
+		"prefix": "fa-hand-o-left",
+		"body": "fa-hand-o-left",
+		"description": "fontawesome fa-hand-o-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-o-right": {
+		"prefix": "fa-hand-o-right",
+		"body": "fa-hand-o-right",
+		"description": "fontawesome fa-hand-o-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-o-up": {
+		"prefix": "fa-hand-o-up",
+		"body": "fa-hand-o-up",
+		"description": "fontawesome fa-hand-o-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-paper-o": {
+		"prefix": "fa-hand-paper-o",
+		"body": "fa-hand-paper-o",
+		"description": "fontawesome fa-hand-paper-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-peace-o": {
+		"prefix": "fa-hand-peace-o",
+		"body": "fa-hand-peace-o",
+		"description": "fontawesome fa-hand-peace-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-pointer-o": {
+		"prefix": "fa-hand-pointer-o",
+		"body": "fa-hand-pointer-o",
+		"description": "fontawesome fa-hand-pointer-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-rock-o": {
+		"prefix": "fa-hand-rock-o",
+		"body": "fa-hand-rock-o",
+		"description": "fontawesome fa-hand-rock-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-scissors-o": {
+		"prefix": "fa-hand-scissors-o",
+		"body": "fa-hand-scissors-o",
+		"description": "fontawesome fa-hand-scissors-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-spock-o": {
+		"prefix": "fa-hand-spock-o",
+		"body": "fa-hand-spock-o",
+		"description": "fontawesome fa-hand-spock-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hand-stop-o": {
+		"prefix": "fa-hand-stop-o",
+		"body": "fa-hand-stop-o",
+		"description": "fontawesome fa-hand-stop-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hdd-o": {
+		"prefix": "fa-hdd-o",
+		"body": "fa-hdd-o",
+		"description": "fontawesome fa-hdd-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-header": {
+		"prefix": "fa-header",
+		"body": "fa-header",
+		"description": "fontawesome fa-header",
+		"scope": "text.html.markdown"
+	},
+	"fa-headphones": {
+		"prefix": "fa-headphones",
+		"body": "fa-headphones",
+		"description": "fontawesome fa-headphones",
+		"scope": "text.html.markdown"
+	},
+	"fa-heart-o": {
+		"prefix": "fa-heart-o",
+		"body": "fa-heart-o",
+		"description": "fontawesome fa-heart-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-heart": {
+		"prefix": "fa-heart",
+		"body": "fa-heart",
+		"description": "fontawesome fa-heart",
+		"scope": "text.html.markdown"
+	},
+	"fa-heartbeat": {
+		"prefix": "fa-heartbeat",
+		"body": "fa-heartbeat",
+		"description": "fontawesome fa-heartbeat",
+		"scope": "text.html.markdown"
+	},
+	"fa-history": {
+		"prefix": "fa-history",
+		"body": "fa-history",
+		"description": "fontawesome fa-history",
+		"scope": "text.html.markdown"
+	},
+	"fa-home": {
+		"prefix": "fa-home",
+		"body": "fa-home",
+		"description": "fontawesome fa-home",
+		"scope": "text.html.markdown"
+	},
+	"fa-hospital-o": {
+		"prefix": "fa-hospital-o",
+		"body": "fa-hospital-o",
+		"description": "fontawesome fa-hospital-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hotel": {
+		"prefix": "fa-hotel",
+		"body": "fa-hotel",
+		"description": "fontawesome fa-hotel",
+		"scope": "text.html.markdown"
+	},
+	"fa-hourglass-1": {
+		"prefix": "fa-hourglass-1",
+		"body": "fa-hourglass-1",
+		"description": "fontawesome fa-hourglass-1",
+		"scope": "text.html.markdown"
+	},
+	"fa-hourglass-2": {
+		"prefix": "fa-hourglass-2",
+		"body": "fa-hourglass-2",
+		"description": "fontawesome fa-hourglass-2",
+		"scope": "text.html.markdown"
+	},
+	"fa-hourglass-3": {
+		"prefix": "fa-hourglass-3",
+		"body": "fa-hourglass-3",
+		"description": "fontawesome fa-hourglass-3",
+		"scope": "text.html.markdown"
+	},
+	"fa-hourglass-end": {
+		"prefix": "fa-hourglass-end",
+		"body": "fa-hourglass-end",
+		"description": "fontawesome fa-hourglass-end",
+		"scope": "text.html.markdown"
+	},
+	"fa-hourglass-half": {
+		"prefix": "fa-hourglass-half",
+		"body": "fa-hourglass-half",
+		"description": "fontawesome fa-hourglass-half",
+		"scope": "text.html.markdown"
+	},
+	"fa-hourglass-o": {
+		"prefix": "fa-hourglass-o",
+		"body": "fa-hourglass-o",
+		"description": "fontawesome fa-hourglass-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-hourglass-start": {
+		"prefix": "fa-hourglass-start",
+		"body": "fa-hourglass-start",
+		"description": "fontawesome fa-hourglass-start",
+		"scope": "text.html.markdown"
+	},
+	"fa-hourglass": {
+		"prefix": "fa-hourglass",
+		"body": "fa-hourglass",
+		"description": "fontawesome fa-hourglass",
+		"scope": "text.html.markdown"
+	},
+	"fa-houzz": {
+		"prefix": "fa-houzz",
+		"body": "fa-houzz",
+		"description": "fontawesome fa-houzz",
+		"scope": "text.html.markdown"
+	},
+	"fa-html5": {
+		"prefix": "fa-html5",
+		"body": "fa-html5",
+		"description": "fontawesome fa-html5",
+		"scope": "text.html.markdown"
+	},
+	"fa-i-cursor": {
+		"prefix": "fa-i-cursor",
+		"body": "fa-i-cursor",
+		"description": "fontawesome fa-i-cursor",
+		"scope": "text.html.markdown"
+	},
+	"fa-ils": {
+		"prefix": "fa-ils",
+		"body": "fa-ils",
+		"description": "fontawesome fa-ils",
+		"scope": "text.html.markdown"
+	},
+	"fa-image": {
+		"prefix": "fa-image",
+		"body": "fa-image",
+		"description": "fontawesome fa-image",
+		"scope": "text.html.markdown"
+	},
+	"fa-inbox": {
+		"prefix": "fa-inbox",
+		"body": "fa-inbox",
+		"description": "fontawesome fa-inbox",
+		"scope": "text.html.markdown"
+	},
+	"fa-indent": {
+		"prefix": "fa-indent",
+		"body": "fa-indent",
+		"description": "fontawesome fa-indent",
+		"scope": "text.html.markdown"
+	},
+	"fa-industry": {
+		"prefix": "fa-industry",
+		"body": "fa-industry",
+		"description": "fontawesome fa-industry",
+		"scope": "text.html.markdown"
+	},
+	"fa-info-circle": {
+		"prefix": "fa-info-circle",
+		"body": "fa-info-circle",
+		"description": "fontawesome fa-info-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-info": {
+		"prefix": "fa-info",
+		"body": "fa-info",
+		"description": "fontawesome fa-info",
+		"scope": "text.html.markdown"
+	},
+	"fa-inr": {
+		"prefix": "fa-inr",
+		"body": "fa-inr",
+		"description": "fontawesome fa-inr",
+		"scope": "text.html.markdown"
+	},
+	"fa-instagram": {
+		"prefix": "fa-instagram",
+		"body": "fa-instagram",
+		"description": "fontawesome fa-instagram",
+		"scope": "text.html.markdown"
+	},
+	"fa-institution": {
+		"prefix": "fa-institution",
+		"body": "fa-institution",
+		"description": "fontawesome fa-institution",
+		"scope": "text.html.markdown"
+	},
+	"fa-internet-explorer": {
+		"prefix": "fa-internet-explorer",
+		"body": "fa-internet-explorer",
+		"description": "fontawesome fa-internet-explorer",
+		"scope": "text.html.markdown"
+	},
+	"fa-intersex": {
+		"prefix": "fa-intersex",
+		"body": "fa-intersex",
+		"description": "fontawesome fa-intersex",
+		"scope": "text.html.markdown"
+	},
+	"fa-ioxhost": {
+		"prefix": "fa-ioxhost",
+		"body": "fa-ioxhost",
+		"description": "fontawesome fa-ioxhost",
+		"scope": "text.html.markdown"
+	},
+	"fa-italic": {
+		"prefix": "fa-italic",
+		"body": "fa-italic",
+		"description": "fontawesome fa-italic",
+		"scope": "text.html.markdown"
+	},
+	"fa-joomla": {
+		"prefix": "fa-joomla",
+		"body": "fa-joomla",
+		"description": "fontawesome fa-joomla",
+		"scope": "text.html.markdown"
+	},
+	"fa-jpy": {
+		"prefix": "fa-jpy",
+		"body": "fa-jpy",
+		"description": "fontawesome fa-jpy",
+		"scope": "text.html.markdown"
+	},
+	"fa-jsfiddle": {
+		"prefix": "fa-jsfiddle",
+		"body": "fa-jsfiddle",
+		"description": "fontawesome fa-jsfiddle",
+		"scope": "text.html.markdown"
+	},
+	"fa-key": {
+		"prefix": "fa-key",
+		"body": "fa-key",
+		"description": "fontawesome fa-key",
+		"scope": "text.html.markdown"
+	},
+	"fa-keyboard-o": {
+		"prefix": "fa-keyboard-o",
+		"body": "fa-keyboard-o",
+		"description": "fontawesome fa-keyboard-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-krw": {
+		"prefix": "fa-krw",
+		"body": "fa-krw",
+		"description": "fontawesome fa-krw",
+		"scope": "text.html.markdown"
+	},
+	"fa-language": {
+		"prefix": "fa-language",
+		"body": "fa-language",
+		"description": "fontawesome fa-language",
+		"scope": "text.html.markdown"
+	},
+	"fa-laptop": {
+		"prefix": "fa-laptop",
+		"body": "fa-laptop",
+		"description": "fontawesome fa-laptop",
+		"scope": "text.html.markdown"
+	},
+	"fa-lastfm-square": {
+		"prefix": "fa-lastfm-square",
+		"body": "fa-lastfm-square",
+		"description": "fontawesome fa-lastfm-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-lastfm": {
+		"prefix": "fa-lastfm",
+		"body": "fa-lastfm",
+		"description": "fontawesome fa-lastfm",
+		"scope": "text.html.markdown"
+	},
+	"fa-leaf": {
+		"prefix": "fa-leaf",
+		"body": "fa-leaf",
+		"description": "fontawesome fa-leaf",
+		"scope": "text.html.markdown"
+	},
+	"fa-leanpub": {
+		"prefix": "fa-leanpub",
+		"body": "fa-leanpub",
+		"description": "fontawesome fa-leanpub",
+		"scope": "text.html.markdown"
+	},
+	"fa-legal": {
+		"prefix": "fa-legal",
+		"body": "fa-legal",
+		"description": "fontawesome fa-legal",
+		"scope": "text.html.markdown"
+	},
+	"fa-lemon-o": {
+		"prefix": "fa-lemon-o",
+		"body": "fa-lemon-o",
+		"description": "fontawesome fa-lemon-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-level-down": {
+		"prefix": "fa-level-down",
+		"body": "fa-level-down",
+		"description": "fontawesome fa-level-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-level-up": {
+		"prefix": "fa-level-up",
+		"body": "fa-level-up",
+		"description": "fontawesome fa-level-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-life-bouy": {
+		"prefix": "fa-life-bouy",
+		"body": "fa-life-bouy",
+		"description": "fontawesome fa-life-bouy",
+		"scope": "text.html.markdown"
+	},
+	"fa-life-buoy": {
+		"prefix": "fa-life-buoy",
+		"body": "fa-life-buoy",
+		"description": "fontawesome fa-life-buoy",
+		"scope": "text.html.markdown"
+	},
+	"fa-life-ring": {
+		"prefix": "fa-life-ring",
+		"body": "fa-life-ring",
+		"description": "fontawesome fa-life-ring",
+		"scope": "text.html.markdown"
+	},
+	"fa-life-saver": {
+		"prefix": "fa-life-saver",
+		"body": "fa-life-saver",
+		"description": "fontawesome fa-life-saver",
+		"scope": "text.html.markdown"
+	},
+	"fa-lightbulb-o": {
+		"prefix": "fa-lightbulb-o",
+		"body": "fa-lightbulb-o",
+		"description": "fontawesome fa-lightbulb-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-line-chart": {
+		"prefix": "fa-line-chart",
+		"body": "fa-line-chart",
+		"description": "fontawesome fa-line-chart",
+		"scope": "text.html.markdown"
+	},
+	"fa-link": {
+		"prefix": "fa-link",
+		"body": "fa-link",
+		"description": "fontawesome fa-link",
+		"scope": "text.html.markdown"
+	},
+	"fa-linkedin-square": {
+		"prefix": "fa-linkedin-square",
+		"body": "fa-linkedin-square",
+		"description": "fontawesome fa-linkedin-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-linkedin": {
+		"prefix": "fa-linkedin",
+		"body": "fa-linkedin",
+		"description": "fontawesome fa-linkedin",
+		"scope": "text.html.markdown"
+	},
+	"fa-linux": {
+		"prefix": "fa-linux",
+		"body": "fa-linux",
+		"description": "fontawesome fa-linux",
+		"scope": "text.html.markdown"
+	},
+	"fa-list-alt": {
+		"prefix": "fa-list-alt",
+		"body": "fa-list-alt",
+		"description": "fontawesome fa-list-alt",
+		"scope": "text.html.markdown"
+	},
+	"fa-list-ol": {
+		"prefix": "fa-list-ol",
+		"body": "fa-list-ol",
+		"description": "fontawesome fa-list-ol",
+		"scope": "text.html.markdown"
+	},
+	"fa-list-ul": {
+		"prefix": "fa-list-ul",
+		"body": "fa-list-ul",
+		"description": "fontawesome fa-list-ul",
+		"scope": "text.html.markdown"
+	},
+	"fa-list": {
+		"prefix": "fa-list",
+		"body": "fa-list",
+		"description": "fontawesome fa-list",
+		"scope": "text.html.markdown"
+	},
+	"fa-location-arrow": {
+		"prefix": "fa-location-arrow",
+		"body": "fa-location-arrow",
+		"description": "fontawesome fa-location-arrow",
+		"scope": "text.html.markdown"
+	},
+	"fa-lock": {
+		"prefix": "fa-lock",
+		"body": "fa-lock",
+		"description": "fontawesome fa-lock",
+		"scope": "text.html.markdown"
+	},
+	"fa-long-arrow-down": {
+		"prefix": "fa-long-arrow-down",
+		"body": "fa-long-arrow-down",
+		"description": "fontawesome fa-long-arrow-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-long-arrow-left": {
+		"prefix": "fa-long-arrow-left",
+		"body": "fa-long-arrow-left",
+		"description": "fontawesome fa-long-arrow-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-long-arrow-right": {
+		"prefix": "fa-long-arrow-right",
+		"body": "fa-long-arrow-right",
+		"description": "fontawesome fa-long-arrow-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-long-arrow-up": {
+		"prefix": "fa-long-arrow-up",
+		"body": "fa-long-arrow-up",
+		"description": "fontawesome fa-long-arrow-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-magic": {
+		"prefix": "fa-magic",
+		"body": "fa-magic",
+		"description": "fontawesome fa-magic",
+		"scope": "text.html.markdown"
+	},
+	"fa-magnet": {
+		"prefix": "fa-magnet",
+		"body": "fa-magnet",
+		"description": "fontawesome fa-magnet",
+		"scope": "text.html.markdown"
+	},
+	"fa-mail-forward": {
+		"prefix": "fa-mail-forward",
+		"body": "fa-mail-forward",
+		"description": "fontawesome fa-mail-forward",
+		"scope": "text.html.markdown"
+	},
+	"fa-mail-reply-all": {
+		"prefix": "fa-mail-reply-all",
+		"body": "fa-mail-reply-all",
+		"description": "fontawesome fa-mail-reply-all",
+		"scope": "text.html.markdown"
+	},
+	"fa-mail-reply": {
+		"prefix": "fa-mail-reply",
+		"body": "fa-mail-reply",
+		"description": "fontawesome fa-mail-reply",
+		"scope": "text.html.markdown"
+	},
+	"fa-male": {
+		"prefix": "fa-male",
+		"body": "fa-male",
+		"description": "fontawesome fa-male",
+		"scope": "text.html.markdown"
+	},
+	"fa-map-marker": {
+		"prefix": "fa-map-marker",
+		"body": "fa-map-marker",
+		"description": "fontawesome fa-map-marker",
+		"scope": "text.html.markdown"
+	},
+	"fa-map-o": {
+		"prefix": "fa-map-o",
+		"body": "fa-map-o",
+		"description": "fontawesome fa-map-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-map-pin": {
+		"prefix": "fa-map-pin",
+		"body": "fa-map-pin",
+		"description": "fontawesome fa-map-pin",
+		"scope": "text.html.markdown"
+	},
+	"fa-map-signs": {
+		"prefix": "fa-map-signs",
+		"body": "fa-map-signs",
+		"description": "fontawesome fa-map-signs",
+		"scope": "text.html.markdown"
+	},
+	"fa-map": {
+		"prefix": "fa-map",
+		"body": "fa-map",
+		"description": "fontawesome fa-map",
+		"scope": "text.html.markdown"
+	},
+	"fa-mars-double": {
+		"prefix": "fa-mars-double",
+		"body": "fa-mars-double",
+		"description": "fontawesome fa-mars-double",
+		"scope": "text.html.markdown"
+	},
+	"fa-mars-stroke-h": {
+		"prefix": "fa-mars-stroke-h",
+		"body": "fa-mars-stroke-h",
+		"description": "fontawesome fa-mars-stroke-h",
+		"scope": "text.html.markdown"
+	},
+	"fa-mars-stroke-v": {
+		"prefix": "fa-mars-stroke-v",
+		"body": "fa-mars-stroke-v",
+		"description": "fontawesome fa-mars-stroke-v",
+		"scope": "text.html.markdown"
+	},
+	"fa-mars-stroke": {
+		"prefix": "fa-mars-stroke",
+		"body": "fa-mars-stroke",
+		"description": "fontawesome fa-mars-stroke",
+		"scope": "text.html.markdown"
+	},
+	"fa-mars": {
+		"prefix": "fa-mars",
+		"body": "fa-mars",
+		"description": "fontawesome fa-mars",
+		"scope": "text.html.markdown"
+	},
+	"fa-maxcdn": {
+		"prefix": "fa-maxcdn",
+		"body": "fa-maxcdn",
+		"description": "fontawesome fa-maxcdn",
+		"scope": "text.html.markdown"
+	},
+	"fa-meanpath": {
+		"prefix": "fa-meanpath",
+		"body": "fa-meanpath",
+		"description": "fontawesome fa-meanpath",
+		"scope": "text.html.markdown"
+	},
+	"fa-medium": {
+		"prefix": "fa-medium",
+		"body": "fa-medium",
+		"description": "fontawesome fa-medium",
+		"scope": "text.html.markdown"
+	},
+	"fa-medkit": {
+		"prefix": "fa-medkit",
+		"body": "fa-medkit",
+		"description": "fontawesome fa-medkit",
+		"scope": "text.html.markdown"
+	},
+	"fa-meh-o": {
+		"prefix": "fa-meh-o",
+		"body": "fa-meh-o",
+		"description": "fontawesome fa-meh-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-mercury": {
+		"prefix": "fa-mercury",
+		"body": "fa-mercury",
+		"description": "fontawesome fa-mercury",
+		"scope": "text.html.markdown"
+	},
+	"fa-microphone-slash": {
+		"prefix": "fa-microphone-slash",
+		"body": "fa-microphone-slash",
+		"description": "fontawesome fa-microphone-slash",
+		"scope": "text.html.markdown"
+	},
+	"fa-microphone": {
+		"prefix": "fa-microphone",
+		"body": "fa-microphone",
+		"description": "fontawesome fa-microphone",
+		"scope": "text.html.markdown"
+	},
+	"fa-minus-circle": {
+		"prefix": "fa-minus-circle",
+		"body": "fa-minus-circle",
+		"description": "fontawesome fa-minus-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-minus-square-o": {
+		"prefix": "fa-minus-square-o",
+		"body": "fa-minus-square-o",
+		"description": "fontawesome fa-minus-square-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-minus-square": {
+		"prefix": "fa-minus-square",
+		"body": "fa-minus-square",
+		"description": "fontawesome fa-minus-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-minus": {
+		"prefix": "fa-minus",
+		"body": "fa-minus",
+		"description": "fontawesome fa-minus",
+		"scope": "text.html.markdown"
+	},
+	"fa-mobile-phone": {
+		"prefix": "fa-mobile-phone",
+		"body": "fa-mobile-phone",
+		"description": "fontawesome fa-mobile-phone",
+		"scope": "text.html.markdown"
+	},
+	"fa-mobile": {
+		"prefix": "fa-mobile",
+		"body": "fa-mobile",
+		"description": "fontawesome fa-mobile",
+		"scope": "text.html.markdown"
+	},
+	"fa-money": {
+		"prefix": "fa-money",
+		"body": "fa-money",
+		"description": "fontawesome fa-money",
+		"scope": "text.html.markdown"
+	},
+	"fa-moon-o": {
+		"prefix": "fa-moon-o",
+		"body": "fa-moon-o",
+		"description": "fontawesome fa-moon-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-mortar-board": {
+		"prefix": "fa-mortar-board",
+		"body": "fa-mortar-board",
+		"description": "fontawesome fa-mortar-board",
+		"scope": "text.html.markdown"
+	},
+	"fa-motorcycle": {
+		"prefix": "fa-motorcycle",
+		"body": "fa-motorcycle",
+		"description": "fontawesome fa-motorcycle",
+		"scope": "text.html.markdown"
+	},
+	"fa-mouse-pointer": {
+		"prefix": "fa-mouse-pointer",
+		"body": "fa-mouse-pointer",
+		"description": "fontawesome fa-mouse-pointer",
+		"scope": "text.html.markdown"
+	},
+	"fa-music": {
+		"prefix": "fa-music",
+		"body": "fa-music",
+		"description": "fontawesome fa-music",
+		"scope": "text.html.markdown"
+	},
+	"fa-navicon": {
+		"prefix": "fa-navicon",
+		"body": "fa-navicon",
+		"description": "fontawesome fa-navicon",
+		"scope": "text.html.markdown"
+	},
+	"fa-neuter": {
+		"prefix": "fa-neuter",
+		"body": "fa-neuter",
+		"description": "fontawesome fa-neuter",
+		"scope": "text.html.markdown"
+	},
+	"fa-newspaper-o": {
+		"prefix": "fa-newspaper-o",
+		"body": "fa-newspaper-o",
+		"description": "fontawesome fa-newspaper-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-object-group": {
+		"prefix": "fa-object-group",
+		"body": "fa-object-group",
+		"description": "fontawesome fa-object-group",
+		"scope": "text.html.markdown"
+	},
+	"fa-object-ungroup": {
+		"prefix": "fa-object-ungroup",
+		"body": "fa-object-ungroup",
+		"description": "fontawesome fa-object-ungroup",
+		"scope": "text.html.markdown"
+	},
+	"fa-odnoklassniki-square": {
+		"prefix": "fa-odnoklassniki-square",
+		"body": "fa-odnoklassniki-square",
+		"description": "fontawesome fa-odnoklassniki-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-odnoklassniki": {
+		"prefix": "fa-odnoklassniki",
+		"body": "fa-odnoklassniki",
+		"description": "fontawesome fa-odnoklassniki",
+		"scope": "text.html.markdown"
+	},
+	"fa-opencart": {
+		"prefix": "fa-opencart",
+		"body": "fa-opencart",
+		"description": "fontawesome fa-opencart",
+		"scope": "text.html.markdown"
+	},
+	"fa-openid": {
+		"prefix": "fa-openid",
+		"body": "fa-openid",
+		"description": "fontawesome fa-openid",
+		"scope": "text.html.markdown"
+	},
+	"fa-opera": {
+		"prefix": "fa-opera",
+		"body": "fa-opera",
+		"description": "fontawesome fa-opera",
+		"scope": "text.html.markdown"
+	},
+	"fa-optin-monster": {
+		"prefix": "fa-optin-monster",
+		"body": "fa-optin-monster",
+		"description": "fontawesome fa-optin-monster",
+		"scope": "text.html.markdown"
+	},
+	"fa-outdent": {
+		"prefix": "fa-outdent",
+		"body": "fa-outdent",
+		"description": "fontawesome fa-outdent",
+		"scope": "text.html.markdown"
+	},
+	"fa-pagelines": {
+		"prefix": "fa-pagelines",
+		"body": "fa-pagelines",
+		"description": "fontawesome fa-pagelines",
+		"scope": "text.html.markdown"
+	},
+	"fa-paint-brush": {
+		"prefix": "fa-paint-brush",
+		"body": "fa-paint-brush",
+		"description": "fontawesome fa-paint-brush",
+		"scope": "text.html.markdown"
+	},
+	"fa-paper-plane-o": {
+		"prefix": "fa-paper-plane-o",
+		"body": "fa-paper-plane-o",
+		"description": "fontawesome fa-paper-plane-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-paper-plane": {
+		"prefix": "fa-paper-plane",
+		"body": "fa-paper-plane",
+		"description": "fontawesome fa-paper-plane",
+		"scope": "text.html.markdown"
+	},
+	"fa-paperclip": {
+		"prefix": "fa-paperclip",
+		"body": "fa-paperclip",
+		"description": "fontawesome fa-paperclip",
+		"scope": "text.html.markdown"
+	},
+	"fa-paragraph": {
+		"prefix": "fa-paragraph",
+		"body": "fa-paragraph",
+		"description": "fontawesome fa-paragraph",
+		"scope": "text.html.markdown"
+	},
+	"fa-paste": {
+		"prefix": "fa-paste",
+		"body": "fa-paste",
+		"description": "fontawesome fa-paste",
+		"scope": "text.html.markdown"
+	},
+	"fa-pause": {
+		"prefix": "fa-pause",
+		"body": "fa-pause",
+		"description": "fontawesome fa-pause",
+		"scope": "text.html.markdown"
+	},
+	"fa-paw": {
+		"prefix": "fa-paw",
+		"body": "fa-paw",
+		"description": "fontawesome fa-paw",
+		"scope": "text.html.markdown"
+	},
+	"fa-paypal": {
+		"prefix": "fa-paypal",
+		"body": "fa-paypal",
+		"description": "fontawesome fa-paypal",
+		"scope": "text.html.markdown"
+	},
+	"fa-pencil-square-o": {
+		"prefix": "fa-pencil-square-o",
+		"body": "fa-pencil-square-o",
+		"description": "fontawesome fa-pencil-square-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-pencil-square": {
+		"prefix": "fa-pencil-square",
+		"body": "fa-pencil-square",
+		"description": "fontawesome fa-pencil-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-pencil": {
+		"prefix": "fa-pencil",
+		"body": "fa-pencil",
+		"description": "fontawesome fa-pencil",
+		"scope": "text.html.markdown"
+	},
+	"fa-phone-square": {
+		"prefix": "fa-phone-square",
+		"body": "fa-phone-square",
+		"description": "fontawesome fa-phone-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-phone": {
+		"prefix": "fa-phone",
+		"body": "fa-phone",
+		"description": "fontawesome fa-phone",
+		"scope": "text.html.markdown"
+	},
+	"fa-photo": {
+		"prefix": "fa-photo",
+		"body": "fa-photo",
+		"description": "fontawesome fa-photo",
+		"scope": "text.html.markdown"
+	},
+	"fa-picture-o": {
+		"prefix": "fa-picture-o",
+		"body": "fa-picture-o",
+		"description": "fontawesome fa-picture-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-pie-chart": {
+		"prefix": "fa-pie-chart",
+		"body": "fa-pie-chart",
+		"description": "fontawesome fa-pie-chart",
+		"scope": "text.html.markdown"
+	},
+	"fa-pied-piper-alt": {
+		"prefix": "fa-pied-piper-alt",
+		"body": "fa-pied-piper-alt",
+		"description": "fontawesome fa-pied-piper-alt",
+		"scope": "text.html.markdown"
+	},
+	"fa-pied-piper": {
+		"prefix": "fa-pied-piper",
+		"body": "fa-pied-piper",
+		"description": "fontawesome fa-pied-piper",
+		"scope": "text.html.markdown"
+	},
+	"fa-pinterest-p": {
+		"prefix": "fa-pinterest-p",
+		"body": "fa-pinterest-p",
+		"description": "fontawesome fa-pinterest-p",
+		"scope": "text.html.markdown"
+	},
+	"fa-pinterest-square": {
+		"prefix": "fa-pinterest-square",
+		"body": "fa-pinterest-square",
+		"description": "fontawesome fa-pinterest-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-pinterest": {
+		"prefix": "fa-pinterest",
+		"body": "fa-pinterest",
+		"description": "fontawesome fa-pinterest",
+		"scope": "text.html.markdown"
+	},
+	"fa-plane": {
+		"prefix": "fa-plane",
+		"body": "fa-plane",
+		"description": "fontawesome fa-plane",
+		"scope": "text.html.markdown"
+	},
+	"fa-play-circle-o": {
+		"prefix": "fa-play-circle-o",
+		"body": "fa-play-circle-o",
+		"description": "fontawesome fa-play-circle-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-play-circle": {
+		"prefix": "fa-play-circle",
+		"body": "fa-play-circle",
+		"description": "fontawesome fa-play-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-play": {
+		"prefix": "fa-play",
+		"body": "fa-play",
+		"description": "fontawesome fa-play",
+		"scope": "text.html.markdown"
+	},
+	"fa-plug": {
+		"prefix": "fa-plug",
+		"body": "fa-plug",
+		"description": "fontawesome fa-plug",
+		"scope": "text.html.markdown"
+	},
+	"fa-plus-circle": {
+		"prefix": "fa-plus-circle",
+		"body": "fa-plus-circle",
+		"description": "fontawesome fa-plus-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-plus-square-o": {
+		"prefix": "fa-plus-square-o",
+		"body": "fa-plus-square-o",
+		"description": "fontawesome fa-plus-square-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-plus-square": {
+		"prefix": "fa-plus-square",
+		"body": "fa-plus-square",
+		"description": "fontawesome fa-plus-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-plus": {
+		"prefix": "fa-plus",
+		"body": "fa-plus",
+		"description": "fontawesome fa-plus",
+		"scope": "text.html.markdown"
+	},
+	"fa-power-off": {
+		"prefix": "fa-power-off",
+		"body": "fa-power-off",
+		"description": "fontawesome fa-power-off",
+		"scope": "text.html.markdown"
+	},
+	"fa-print": {
+		"prefix": "fa-print",
+		"body": "fa-print",
+		"description": "fontawesome fa-print",
+		"scope": "text.html.markdown"
+	},
+	"fa-puzzle-piece": {
+		"prefix": "fa-puzzle-piece",
+		"body": "fa-puzzle-piece",
+		"description": "fontawesome fa-puzzle-piece",
+		"scope": "text.html.markdown"
+	},
+	"fa-qq": {
+		"prefix": "fa-qq",
+		"body": "fa-qq",
+		"description": "fontawesome fa-qq",
+		"scope": "text.html.markdown"
+	},
+	"fa-qrcode": {
+		"prefix": "fa-qrcode",
+		"body": "fa-qrcode",
+		"description": "fontawesome fa-qrcode",
+		"scope": "text.html.markdown"
+	},
+	"fa-question-circle": {
+		"prefix": "fa-question-circle",
+		"body": "fa-question-circle",
+		"description": "fontawesome fa-question-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-question": {
+		"prefix": "fa-question",
+		"body": "fa-question",
+		"description": "fontawesome fa-question",
+		"scope": "text.html.markdown"
+	},
+	"fa-quote-left": {
+		"prefix": "fa-quote-left",
+		"body": "fa-quote-left",
+		"description": "fontawesome fa-quote-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-quote-right": {
+		"prefix": "fa-quote-right",
+		"body": "fa-quote-right",
+		"description": "fontawesome fa-quote-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-ra": {
+		"prefix": "fa-ra",
+		"body": "fa-ra",
+		"description": "fontawesome fa-ra",
+		"scope": "text.html.markdown"
+	},
+	"fa-random": {
+		"prefix": "fa-random",
+		"body": "fa-random",
+		"description": "fontawesome fa-random",
+		"scope": "text.html.markdown"
+	},
+	"fa-rebel": {
+		"prefix": "fa-rebel",
+		"body": "fa-rebel",
+		"description": "fontawesome fa-rebel",
+		"scope": "text.html.markdown"
+	},
+	"fa-recycle": {
+		"prefix": "fa-recycle",
+		"body": "fa-recycle",
+		"description": "fontawesome fa-recycle",
+		"scope": "text.html.markdown"
+	},
+	"fa-reddit-square": {
+		"prefix": "fa-reddit-square",
+		"body": "fa-reddit-square",
+		"description": "fontawesome fa-reddit-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-reddit": {
+		"prefix": "fa-reddit",
+		"body": "fa-reddit",
+		"description": "fontawesome fa-reddit",
+		"scope": "text.html.markdown"
+	},
+	"fa-refresh": {
+		"prefix": "fa-refresh",
+		"body": "fa-refresh",
+		"description": "fontawesome fa-refresh",
+		"scope": "text.html.markdown"
+	},
+	"fa-registered": {
+		"prefix": "fa-registered",
+		"body": "fa-registered",
+		"description": "fontawesome fa-registered",
+		"scope": "text.html.markdown"
+	},
+	"fa-remove": {
+		"prefix": "fa-remove",
+		"body": "fa-remove",
+		"description": "fontawesome fa-remove",
+		"scope": "text.html.markdown"
+	},
+	"fa-renren": {
+		"prefix": "fa-renren",
+		"body": "fa-renren",
+		"description": "fontawesome fa-renren",
+		"scope": "text.html.markdown"
+	},
+	"fa-reorder": {
+		"prefix": "fa-reorder",
+		"body": "fa-reorder",
+		"description": "fontawesome fa-reorder",
+		"scope": "text.html.markdown"
+	},
+	"fa-repeat": {
+		"prefix": "fa-repeat",
+		"body": "fa-repeat",
+		"description": "fontawesome fa-repeat",
+		"scope": "text.html.markdown"
+	},
+	"fa-reply-all": {
+		"prefix": "fa-reply-all",
+		"body": "fa-reply-all",
+		"description": "fontawesome fa-reply-all",
+		"scope": "text.html.markdown"
+	},
+	"fa-reply": {
+		"prefix": "fa-reply",
+		"body": "fa-reply",
+		"description": "fontawesome fa-reply",
+		"scope": "text.html.markdown"
+	},
+	"fa-retweet": {
+		"prefix": "fa-retweet",
+		"body": "fa-retweet",
+		"description": "fontawesome fa-retweet",
+		"scope": "text.html.markdown"
+	},
+	"fa-rmb": {
+		"prefix": "fa-rmb",
+		"body": "fa-rmb",
+		"description": "fontawesome fa-rmb",
+		"scope": "text.html.markdown"
+	},
+	"fa-road": {
+		"prefix": "fa-road",
+		"body": "fa-road",
+		"description": "fontawesome fa-road",
+		"scope": "text.html.markdown"
+	},
+	"fa-rocket": {
+		"prefix": "fa-rocket",
+		"body": "fa-rocket",
+		"description": "fontawesome fa-rocket",
+		"scope": "text.html.markdown"
+	},
+	"fa-rotate-left": {
+		"prefix": "fa-rotate-left",
+		"body": "fa-rotate-left",
+		"description": "fontawesome fa-rotate-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-rotate-right": {
+		"prefix": "fa-rotate-right",
+		"body": "fa-rotate-right",
+		"description": "fontawesome fa-rotate-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-rouble": {
+		"prefix": "fa-rouble",
+		"body": "fa-rouble",
+		"description": "fontawesome fa-rouble",
+		"scope": "text.html.markdown"
+	},
+	"fa-rss-square": {
+		"prefix": "fa-rss-square",
+		"body": "fa-rss-square",
+		"description": "fontawesome fa-rss-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-rss": {
+		"prefix": "fa-rss",
+		"body": "fa-rss",
+		"description": "fontawesome fa-rss",
+		"scope": "text.html.markdown"
+	},
+	"fa-rub": {
+		"prefix": "fa-rub",
+		"body": "fa-rub",
+		"description": "fontawesome fa-rub",
+		"scope": "text.html.markdown"
+	},
+	"fa-ruble": {
+		"prefix": "fa-ruble",
+		"body": "fa-ruble",
+		"description": "fontawesome fa-ruble",
+		"scope": "text.html.markdown"
+	},
+	"fa-rupee": {
+		"prefix": "fa-rupee",
+		"body": "fa-rupee",
+		"description": "fontawesome fa-rupee",
+		"scope": "text.html.markdown"
+	},
+	"fa-safari": {
+		"prefix": "fa-safari",
+		"body": "fa-safari",
+		"description": "fontawesome fa-safari",
+		"scope": "text.html.markdown"
+	},
+	"fa-save": {
+		"prefix": "fa-save",
+		"body": "fa-save",
+		"description": "fontawesome fa-save",
+		"scope": "text.html.markdown"
+	},
+	"fa-scissors": {
+		"prefix": "fa-scissors",
+		"body": "fa-scissors",
+		"description": "fontawesome fa-scissors",
+		"scope": "text.html.markdown"
+	},
+	"fa-search-minus": {
+		"prefix": "fa-search-minus",
+		"body": "fa-search-minus",
+		"description": "fontawesome fa-search-minus",
+		"scope": "text.html.markdown"
+	},
+	"fa-search-plus": {
+		"prefix": "fa-search-plus",
+		"body": "fa-search-plus",
+		"description": "fontawesome fa-search-plus",
+		"scope": "text.html.markdown"
+	},
+	"fa-search": {
+		"prefix": "fa-search",
+		"body": "fa-search",
+		"description": "fontawesome fa-search",
+		"scope": "text.html.markdown"
+	},
+	"fa-sellsy": {
+		"prefix": "fa-sellsy",
+		"body": "fa-sellsy",
+		"description": "fontawesome fa-sellsy",
+		"scope": "text.html.markdown"
+	},
+	"fa-send-o": {
+		"prefix": "fa-send-o",
+		"body": "fa-send-o",
+		"description": "fontawesome fa-send-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-send": {
+		"prefix": "fa-send",
+		"body": "fa-send",
+		"description": "fontawesome fa-send",
+		"scope": "text.html.markdown"
+	},
+	"fa-server": {
+		"prefix": "fa-server",
+		"body": "fa-server",
+		"description": "fontawesome fa-server",
+		"scope": "text.html.markdown"
+	},
+	"fa-share-alt-square": {
+		"prefix": "fa-share-alt-square",
+		"body": "fa-share-alt-square",
+		"description": "fontawesome fa-share-alt-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-share-alt": {
+		"prefix": "fa-share-alt",
+		"body": "fa-share-alt",
+		"description": "fontawesome fa-share-alt",
+		"scope": "text.html.markdown"
+	},
+	"fa-share-square-o": {
+		"prefix": "fa-share-square-o",
+		"body": "fa-share-square-o",
+		"description": "fontawesome fa-share-square-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-share-square": {
+		"prefix": "fa-share-square",
+		"body": "fa-share-square",
+		"description": "fontawesome fa-share-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-share": {
+		"prefix": "fa-share",
+		"body": "fa-share",
+		"description": "fontawesome fa-share",
+		"scope": "text.html.markdown"
+	},
+	"fa-shekel": {
+		"prefix": "fa-shekel",
+		"body": "fa-shekel",
+		"description": "fontawesome fa-shekel",
+		"scope": "text.html.markdown"
+	},
+	"fa-sheqel": {
+		"prefix": "fa-sheqel",
+		"body": "fa-sheqel",
+		"description": "fontawesome fa-sheqel",
+		"scope": "text.html.markdown"
+	},
+	"fa-shield": {
+		"prefix": "fa-shield",
+		"body": "fa-shield",
+		"description": "fontawesome fa-shield",
+		"scope": "text.html.markdown"
+	},
+	"fa-ship": {
+		"prefix": "fa-ship",
+		"body": "fa-ship",
+		"description": "fontawesome fa-ship",
+		"scope": "text.html.markdown"
+	},
+	"fa-shirtsinbulk": {
+		"prefix": "fa-shirtsinbulk",
+		"body": "fa-shirtsinbulk",
+		"description": "fontawesome fa-shirtsinbulk",
+		"scope": "text.html.markdown"
+	},
+	"fa-shopping-cart": {
+		"prefix": "fa-shopping-cart",
+		"body": "fa-shopping-cart",
+		"description": "fontawesome fa-shopping-cart",
+		"scope": "text.html.markdown"
+	},
+	"fa-sign-in": {
+		"prefix": "fa-sign-in",
+		"body": "fa-sign-in",
+		"description": "fontawesome fa-sign-in",
+		"scope": "text.html.markdown"
+	},
+	"fa-sign-out": {
+		"prefix": "fa-sign-out",
+		"body": "fa-sign-out",
+		"description": "fontawesome fa-sign-out",
+		"scope": "text.html.markdown"
+	},
+	"fa-signal": {
+		"prefix": "fa-signal",
+		"body": "fa-signal",
+		"description": "fontawesome fa-signal",
+		"scope": "text.html.markdown"
+	},
+	"fa-simplybuilt": {
+		"prefix": "fa-simplybuilt",
+		"body": "fa-simplybuilt",
+		"description": "fontawesome fa-simplybuilt",
+		"scope": "text.html.markdown"
+	},
+	"fa-sitemap": {
+		"prefix": "fa-sitemap",
+		"body": "fa-sitemap",
+		"description": "fontawesome fa-sitemap",
+		"scope": "text.html.markdown"
+	},
+	"fa-skyatlas": {
+		"prefix": "fa-skyatlas",
+		"body": "fa-skyatlas",
+		"description": "fontawesome fa-skyatlas",
+		"scope": "text.html.markdown"
+	},
+	"fa-skype": {
+		"prefix": "fa-skype",
+		"body": "fa-skype",
+		"description": "fontawesome fa-skype",
+		"scope": "text.html.markdown"
+	},
+	"fa-slack": {
+		"prefix": "fa-slack",
+		"body": "fa-slack",
+		"description": "fontawesome fa-slack",
+		"scope": "text.html.markdown"
+	},
+	"fa-sliders": {
+		"prefix": "fa-sliders",
+		"body": "fa-sliders",
+		"description": "fontawesome fa-sliders",
+		"scope": "text.html.markdown"
+	},
+	"fa-slideshare": {
+		"prefix": "fa-slideshare",
+		"body": "fa-slideshare",
+		"description": "fontawesome fa-slideshare",
+		"scope": "text.html.markdown"
+	},
+	"fa-smile-o": {
+		"prefix": "fa-smile-o",
+		"body": "fa-smile-o",
+		"description": "fontawesome fa-smile-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-soccer-ball-o": {
+		"prefix": "fa-soccer-ball-o",
+		"body": "fa-soccer-ball-o",
+		"description": "fontawesome fa-soccer-ball-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-alpha-asc": {
+		"prefix": "fa-sort-alpha-asc",
+		"body": "fa-sort-alpha-asc",
+		"description": "fontawesome fa-sort-alpha-asc",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-alpha-desc": {
+		"prefix": "fa-sort-alpha-desc",
+		"body": "fa-sort-alpha-desc",
+		"description": "fontawesome fa-sort-alpha-desc",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-amount-asc": {
+		"prefix": "fa-sort-amount-asc",
+		"body": "fa-sort-amount-asc",
+		"description": "fontawesome fa-sort-amount-asc",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-amount-desc": {
+		"prefix": "fa-sort-amount-desc",
+		"body": "fa-sort-amount-desc",
+		"description": "fontawesome fa-sort-amount-desc",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-asc": {
+		"prefix": "fa-sort-asc",
+		"body": "fa-sort-asc",
+		"description": "fontawesome fa-sort-asc",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-desc": {
+		"prefix": "fa-sort-desc",
+		"body": "fa-sort-desc",
+		"description": "fontawesome fa-sort-desc",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-down": {
+		"prefix": "fa-sort-down",
+		"body": "fa-sort-down",
+		"description": "fontawesome fa-sort-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-numeric-asc": {
+		"prefix": "fa-sort-numeric-asc",
+		"body": "fa-sort-numeric-asc",
+		"description": "fontawesome fa-sort-numeric-asc",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-numeric-desc": {
+		"prefix": "fa-sort-numeric-desc",
+		"body": "fa-sort-numeric-desc",
+		"description": "fontawesome fa-sort-numeric-desc",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort-up": {
+		"prefix": "fa-sort-up",
+		"body": "fa-sort-up",
+		"description": "fontawesome fa-sort-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-sort": {
+		"prefix": "fa-sort",
+		"body": "fa-sort",
+		"description": "fontawesome fa-sort",
+		"scope": "text.html.markdown"
+	},
+	"fa-soundcloud": {
+		"prefix": "fa-soundcloud",
+		"body": "fa-soundcloud",
+		"description": "fontawesome fa-soundcloud",
+		"scope": "text.html.markdown"
+	},
+	"fa-space-shuttle": {
+		"prefix": "fa-space-shuttle",
+		"body": "fa-space-shuttle",
+		"description": "fontawesome fa-space-shuttle",
+		"scope": "text.html.markdown"
+	},
+	"fa-spinner": {
+		"prefix": "fa-spinner",
+		"body": "fa-spinner",
+		"description": "fontawesome fa-spinner",
+		"scope": "text.html.markdown"
+	},
+	"fa-spoon": {
+		"prefix": "fa-spoon",
+		"body": "fa-spoon",
+		"description": "fontawesome fa-spoon",
+		"scope": "text.html.markdown"
+	},
+	"fa-spotify": {
+		"prefix": "fa-spotify",
+		"body": "fa-spotify",
+		"description": "fontawesome fa-spotify",
+		"scope": "text.html.markdown"
+	},
+	"fa-square-o": {
+		"prefix": "fa-square-o",
+		"body": "fa-square-o",
+		"description": "fontawesome fa-square-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-square": {
+		"prefix": "fa-square",
+		"body": "fa-square",
+		"description": "fontawesome fa-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-stack-exchange": {
+		"prefix": "fa-stack-exchange",
+		"body": "fa-stack-exchange",
+		"description": "fontawesome fa-stack-exchange",
+		"scope": "text.html.markdown"
+	},
+	"fa-stack-overflow": {
+		"prefix": "fa-stack-overflow",
+		"body": "fa-stack-overflow",
+		"description": "fontawesome fa-stack-overflow",
+		"scope": "text.html.markdown"
+	},
+	"fa-star-half-empty": {
+		"prefix": "fa-star-half-empty",
+		"body": "fa-star-half-empty",
+		"description": "fontawesome fa-star-half-empty",
+		"scope": "text.html.markdown"
+	},
+	"fa-star-half-full": {
+		"prefix": "fa-star-half-full",
+		"body": "fa-star-half-full",
+		"description": "fontawesome fa-star-half-full",
+		"scope": "text.html.markdown"
+	},
+	"fa-star-half-o": {
+		"prefix": "fa-star-half-o",
+		"body": "fa-star-half-o",
+		"description": "fontawesome fa-star-half-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-star-half": {
+		"prefix": "fa-star-half",
+		"body": "fa-star-half",
+		"description": "fontawesome fa-star-half",
+		"scope": "text.html.markdown"
+	},
+	"fa-star-o": {
+		"prefix": "fa-star-o",
+		"body": "fa-star-o",
+		"description": "fontawesome fa-star-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-star": {
+		"prefix": "fa-star",
+		"body": "fa-star",
+		"description": "fontawesome fa-star",
+		"scope": "text.html.markdown"
+	},
+	"fa-steam-square": {
+		"prefix": "fa-steam-square",
+		"body": "fa-steam-square",
+		"description": "fontawesome fa-steam-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-steam": {
+		"prefix": "fa-steam",
+		"body": "fa-steam",
+		"description": "fontawesome fa-steam",
+		"scope": "text.html.markdown"
+	},
+	"fa-step-backward": {
+		"prefix": "fa-step-backward",
+		"body": "fa-step-backward",
+		"description": "fontawesome fa-step-backward",
+		"scope": "text.html.markdown"
+	},
+	"fa-step-forward": {
+		"prefix": "fa-step-forward",
+		"body": "fa-step-forward",
+		"description": "fontawesome fa-step-forward",
+		"scope": "text.html.markdown"
+	},
+	"fa-stethoscope": {
+		"prefix": "fa-stethoscope",
+		"body": "fa-stethoscope",
+		"description": "fontawesome fa-stethoscope",
+		"scope": "text.html.markdown"
+	},
+	"fa-sticky-note-o": {
+		"prefix": "fa-sticky-note-o",
+		"body": "fa-sticky-note-o",
+		"description": "fontawesome fa-sticky-note-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-sticky-note": {
+		"prefix": "fa-sticky-note",
+		"body": "fa-sticky-note",
+		"description": "fontawesome fa-sticky-note",
+		"scope": "text.html.markdown"
+	},
+	"fa-stop": {
+		"prefix": "fa-stop",
+		"body": "fa-stop",
+		"description": "fontawesome fa-stop",
+		"scope": "text.html.markdown"
+	},
+	"fa-street-view": {
+		"prefix": "fa-street-view",
+		"body": "fa-street-view",
+		"description": "fontawesome fa-street-view",
+		"scope": "text.html.markdown"
+	},
+	"fa-strikethrough": {
+		"prefix": "fa-strikethrough",
+		"body": "fa-strikethrough",
+		"description": "fontawesome fa-strikethrough",
+		"scope": "text.html.markdown"
+	},
+	"fa-stumbleupon-circle": {
+		"prefix": "fa-stumbleupon-circle",
+		"body": "fa-stumbleupon-circle",
+		"description": "fontawesome fa-stumbleupon-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-stumbleupon": {
+		"prefix": "fa-stumbleupon",
+		"body": "fa-stumbleupon",
+		"description": "fontawesome fa-stumbleupon",
+		"scope": "text.html.markdown"
+	},
+	"fa-subscript": {
+		"prefix": "fa-subscript",
+		"body": "fa-subscript",
+		"description": "fontawesome fa-subscript",
+		"scope": "text.html.markdown"
+	},
+	"fa-subway": {
+		"prefix": "fa-subway",
+		"body": "fa-subway",
+		"description": "fontawesome fa-subway",
+		"scope": "text.html.markdown"
+	},
+	"fa-suitcase": {
+		"prefix": "fa-suitcase",
+		"body": "fa-suitcase",
+		"description": "fontawesome fa-suitcase",
+		"scope": "text.html.markdown"
+	},
+	"fa-sun-o": {
+		"prefix": "fa-sun-o",
+		"body": "fa-sun-o",
+		"description": "fontawesome fa-sun-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-superscript": {
+		"prefix": "fa-superscript",
+		"body": "fa-superscript",
+		"description": "fontawesome fa-superscript",
+		"scope": "text.html.markdown"
+	},
+	"fa-support": {
+		"prefix": "fa-support",
+		"body": "fa-support",
+		"description": "fontawesome fa-support",
+		"scope": "text.html.markdown"
+	},
+	"fa-table": {
+		"prefix": "fa-table",
+		"body": "fa-table",
+		"description": "fontawesome fa-table",
+		"scope": "text.html.markdown"
+	},
+	"fa-tablet": {
+		"prefix": "fa-tablet",
+		"body": "fa-tablet",
+		"description": "fontawesome fa-tablet",
+		"scope": "text.html.markdown"
+	},
+	"fa-tachometer": {
+		"prefix": "fa-tachometer",
+		"body": "fa-tachometer",
+		"description": "fontawesome fa-tachometer",
+		"scope": "text.html.markdown"
+	},
+	"fa-tag": {
+		"prefix": "fa-tag",
+		"body": "fa-tag",
+		"description": "fontawesome fa-tag",
+		"scope": "text.html.markdown"
+	},
+	"fa-tags": {
+		"prefix": "fa-tags",
+		"body": "fa-tags",
+		"description": "fontawesome fa-tags",
+		"scope": "text.html.markdown"
+	},
+	"fa-tasks": {
+		"prefix": "fa-tasks",
+		"body": "fa-tasks",
+		"description": "fontawesome fa-tasks",
+		"scope": "text.html.markdown"
+	},
+	"fa-taxi": {
+		"prefix": "fa-taxi",
+		"body": "fa-taxi",
+		"description": "fontawesome fa-taxi",
+		"scope": "text.html.markdown"
+	},
+	"fa-television": {
+		"prefix": "fa-television",
+		"body": "fa-television",
+		"description": "fontawesome fa-television",
+		"scope": "text.html.markdown"
+	},
+	"fa-tencent-weibo": {
+		"prefix": "fa-tencent-weibo",
+		"body": "fa-tencent-weibo",
+		"description": "fontawesome fa-tencent-weibo",
+		"scope": "text.html.markdown"
+	},
+	"fa-terminal": {
+		"prefix": "fa-terminal",
+		"body": "fa-terminal",
+		"description": "fontawesome fa-terminal",
+		"scope": "text.html.markdown"
+	},
+	"fa-text-height": {
+		"prefix": "fa-text-height",
+		"body": "fa-text-height",
+		"description": "fontawesome fa-text-height",
+		"scope": "text.html.markdown"
+	},
+	"fa-text-width": {
+		"prefix": "fa-text-width",
+		"body": "fa-text-width",
+		"description": "fontawesome fa-text-width",
+		"scope": "text.html.markdown"
+	},
+	"fa-th-large": {
+		"prefix": "fa-th-large",
+		"body": "fa-th-large",
+		"description": "fontawesome fa-th-large",
+		"scope": "text.html.markdown"
+	},
+	"fa-th-list": {
+		"prefix": "fa-th-list",
+		"body": "fa-th-list",
+		"description": "fontawesome fa-th-list",
+		"scope": "text.html.markdown"
+	},
+	"fa-th": {
+		"prefix": "fa-th",
+		"body": "fa-th",
+		"description": "fontawesome fa-th",
+		"scope": "text.html.markdown"
+	},
+	"fa-thumb-tack": {
+		"prefix": "fa-thumb-tack",
+		"body": "fa-thumb-tack",
+		"description": "fontawesome fa-thumb-tack",
+		"scope": "text.html.markdown"
+	},
+	"fa-thumbs-down": {
+		"prefix": "fa-thumbs-down",
+		"body": "fa-thumbs-down",
+		"description": "fontawesome fa-thumbs-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-thumbs-o-down": {
+		"prefix": "fa-thumbs-o-down",
+		"body": "fa-thumbs-o-down",
+		"description": "fontawesome fa-thumbs-o-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-thumbs-o-up": {
+		"prefix": "fa-thumbs-o-up",
+		"body": "fa-thumbs-o-up",
+		"description": "fontawesome fa-thumbs-o-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-thumbs-up": {
+		"prefix": "fa-thumbs-up",
+		"body": "fa-thumbs-up",
+		"description": "fontawesome fa-thumbs-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-ticket": {
+		"prefix": "fa-ticket",
+		"body": "fa-ticket",
+		"description": "fontawesome fa-ticket",
+		"scope": "text.html.markdown"
+	},
+	"fa-times-circle-o": {
+		"prefix": "fa-times-circle-o",
+		"body": "fa-times-circle-o",
+		"description": "fontawesome fa-times-circle-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-times-circle": {
+		"prefix": "fa-times-circle",
+		"body": "fa-times-circle",
+		"description": "fontawesome fa-times-circle",
+		"scope": "text.html.markdown"
+	},
+	"fa-times": {
+		"prefix": "fa-times",
+		"body": "fa-times",
+		"description": "fontawesome fa-times",
+		"scope": "text.html.markdown"
+	},
+	"fa-tint": {
+		"prefix": "fa-tint",
+		"body": "fa-tint",
+		"description": "fontawesome fa-tint",
+		"scope": "text.html.markdown"
+	},
+	"fa-toggle-down": {
+		"prefix": "fa-toggle-down",
+		"body": "fa-toggle-down",
+		"description": "fontawesome fa-toggle-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-toggle-left": {
+		"prefix": "fa-toggle-left",
+		"body": "fa-toggle-left",
+		"description": "fontawesome fa-toggle-left",
+		"scope": "text.html.markdown"
+	},
+	"fa-toggle-off": {
+		"prefix": "fa-toggle-off",
+		"body": "fa-toggle-off",
+		"description": "fontawesome fa-toggle-off",
+		"scope": "text.html.markdown"
+	},
+	"fa-toggle-on": {
+		"prefix": "fa-toggle-on",
+		"body": "fa-toggle-on",
+		"description": "fontawesome fa-toggle-on",
+		"scope": "text.html.markdown"
+	},
+	"fa-toggle-right": {
+		"prefix": "fa-toggle-right",
+		"body": "fa-toggle-right",
+		"description": "fontawesome fa-toggle-right",
+		"scope": "text.html.markdown"
+	},
+	"fa-toggle-up": {
+		"prefix": "fa-toggle-up",
+		"body": "fa-toggle-up",
+		"description": "fontawesome fa-toggle-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-trademark": {
+		"prefix": "fa-trademark",
+		"body": "fa-trademark",
+		"description": "fontawesome fa-trademark",
+		"scope": "text.html.markdown"
+	},
+	"fa-train": {
+		"prefix": "fa-train",
+		"body": "fa-train",
+		"description": "fontawesome fa-train",
+		"scope": "text.html.markdown"
+	},
+	"fa-transgender-alt": {
+		"prefix": "fa-transgender-alt",
+		"body": "fa-transgender-alt",
+		"description": "fontawesome fa-transgender-alt",
+		"scope": "text.html.markdown"
+	},
+	"fa-transgender": {
+		"prefix": "fa-transgender",
+		"body": "fa-transgender",
+		"description": "fontawesome fa-transgender",
+		"scope": "text.html.markdown"
+	},
+	"fa-trash-o": {
+		"prefix": "fa-trash-o",
+		"body": "fa-trash-o",
+		"description": "fontawesome fa-trash-o",
+		"scope": "text.html.markdown"
+	},
+	"fa-trash": {
+		"prefix": "fa-trash",
+		"body": "fa-trash",
+		"description": "fontawesome fa-trash",
+		"scope": "text.html.markdown"
+	},
+	"fa-tree": {
+		"prefix": "fa-tree",
+		"body": "fa-tree",
+		"description": "fontawesome fa-tree",
+		"scope": "text.html.markdown"
+	},
+	"fa-trello": {
+		"prefix": "fa-trello",
+		"body": "fa-trello",
+		"description": "fontawesome fa-trello",
+		"scope": "text.html.markdown"
+	},
+	"fa-tripadvisor": {
+		"prefix": "fa-tripadvisor",
+		"body": "fa-tripadvisor",
+		"description": "fontawesome fa-tripadvisor",
+		"scope": "text.html.markdown"
+	},
+	"fa-trophy": {
+		"prefix": "fa-trophy",
+		"body": "fa-trophy",
+		"description": "fontawesome fa-trophy",
+		"scope": "text.html.markdown"
+	},
+	"fa-truck": {
+		"prefix": "fa-truck",
+		"body": "fa-truck",
+		"description": "fontawesome fa-truck",
+		"scope": "text.html.markdown"
+	},
+	"fa-try": {
+		"prefix": "fa-try",
+		"body": "fa-try",
+		"description": "fontawesome fa-try",
+		"scope": "text.html.markdown"
+	},
+	"fa-tty": {
+		"prefix": "fa-tty",
+		"body": "fa-tty",
+		"description": "fontawesome fa-tty",
+		"scope": "text.html.markdown"
+	},
+	"fa-tumblr-square": {
+		"prefix": "fa-tumblr-square",
+		"body": "fa-tumblr-square",
+		"description": "fontawesome fa-tumblr-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-tumblr": {
+		"prefix": "fa-tumblr",
+		"body": "fa-tumblr",
+		"description": "fontawesome fa-tumblr",
+		"scope": "text.html.markdown"
+	},
+	"fa-turkish-lira": {
+		"prefix": "fa-turkish-lira",
+		"body": "fa-turkish-lira",
+		"description": "fontawesome fa-turkish-lira",
+		"scope": "text.html.markdown"
+	},
+	"fa-tv": {
+		"prefix": "fa-tv",
+		"body": "fa-tv",
+		"description": "fontawesome fa-tv",
+		"scope": "text.html.markdown"
+	},
+	"fa-twitch": {
+		"prefix": "fa-twitch",
+		"body": "fa-twitch",
+		"description": "fontawesome fa-twitch",
+		"scope": "text.html.markdown"
+	},
+	"fa-twitter-square": {
+		"prefix": "fa-twitter-square",
+		"body": "fa-twitter-square",
+		"description": "fontawesome fa-twitter-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-twitter": {
+		"prefix": "fa-twitter",
+		"body": "fa-twitter",
+		"description": "fontawesome fa-twitter",
+		"scope": "text.html.markdown"
+	},
+	"fa-umbrella": {
+		"prefix": "fa-umbrella",
+		"body": "fa-umbrella",
+		"description": "fontawesome fa-umbrella",
+		"scope": "text.html.markdown"
+	},
+	"fa-underline": {
+		"prefix": "fa-underline",
+		"body": "fa-underline",
+		"description": "fontawesome fa-underline",
+		"scope": "text.html.markdown"
+	},
+	"fa-undo": {
+		"prefix": "fa-undo",
+		"body": "fa-undo",
+		"description": "fontawesome fa-undo",
+		"scope": "text.html.markdown"
+	},
+	"fa-university": {
+		"prefix": "fa-university",
+		"body": "fa-university",
+		"description": "fontawesome fa-university",
+		"scope": "text.html.markdown"
+	},
+	"fa-unlink": {
+		"prefix": "fa-unlink",
+		"body": "fa-unlink",
+		"description": "fontawesome fa-unlink",
+		"scope": "text.html.markdown"
+	},
+	"fa-unlock-alt": {
+		"prefix": "fa-unlock-alt",
+		"body": "fa-unlock-alt",
+		"description": "fontawesome fa-unlock-alt",
+		"scope": "text.html.markdown"
+	},
+	"fa-unlock": {
+		"prefix": "fa-unlock",
+		"body": "fa-unlock",
+		"description": "fontawesome fa-unlock",
+		"scope": "text.html.markdown"
+	},
+	"fa-unsorted": {
+		"prefix": "fa-unsorted",
+		"body": "fa-unsorted",
+		"description": "fontawesome fa-unsorted",
+		"scope": "text.html.markdown"
+	},
+	"fa-upload": {
+		"prefix": "fa-upload",
+		"body": "fa-upload",
+		"description": "fontawesome fa-upload",
+		"scope": "text.html.markdown"
+	},
+	"fa-usd": {
+		"prefix": "fa-usd",
+		"body": "fa-usd",
+		"description": "fontawesome fa-usd",
+		"scope": "text.html.markdown"
+	},
+	"fa-user-md": {
+		"prefix": "fa-user-md",
+		"body": "fa-user-md",
+		"description": "fontawesome fa-user-md",
+		"scope": "text.html.markdown"
+	},
+	"fa-user-plus": {
+		"prefix": "fa-user-plus",
+		"body": "fa-user-plus",
+		"description": "fontawesome fa-user-plus",
+		"scope": "text.html.markdown"
+	},
+	"fa-user-secret": {
+		"prefix": "fa-user-secret",
+		"body": "fa-user-secret",
+		"description": "fontawesome fa-user-secret",
+		"scope": "text.html.markdown"
+	},
+	"fa-user-times": {
+		"prefix": "fa-user-times",
+		"body": "fa-user-times",
+		"description": "fontawesome fa-user-times",
+		"scope": "text.html.markdown"
+	},
+	"fa-user": {
+		"prefix": "fa-user",
+		"body": "fa-user",
+		"description": "fontawesome fa-user",
+		"scope": "text.html.markdown"
+	},
+	"fa-users": {
+		"prefix": "fa-users",
+		"body": "fa-users",
+		"description": "fontawesome fa-users",
+		"scope": "text.html.markdown"
+	},
+	"fa-venus-double": {
+		"prefix": "fa-venus-double",
+		"body": "fa-venus-double",
+		"description": "fontawesome fa-venus-double",
+		"scope": "text.html.markdown"
+	},
+	"fa-venus-mars": {
+		"prefix": "fa-venus-mars",
+		"body": "fa-venus-mars",
+		"description": "fontawesome fa-venus-mars",
+		"scope": "text.html.markdown"
+	},
+	"fa-venus": {
+		"prefix": "fa-venus",
+		"body": "fa-venus",
+		"description": "fontawesome fa-venus",
+		"scope": "text.html.markdown"
+	},
+	"fa-viacoin": {
+		"prefix": "fa-viacoin",
+		"body": "fa-viacoin",
+		"description": "fontawesome fa-viacoin",
+		"scope": "text.html.markdown"
+	},
+	"fa-video-camera": {
+		"prefix": "fa-video-camera",
+		"body": "fa-video-camera",
+		"description": "fontawesome fa-video-camera",
+		"scope": "text.html.markdown"
+	},
+	"fa-vimeo-square": {
+		"prefix": "fa-vimeo-square",
+		"body": "fa-vimeo-square",
+		"description": "fontawesome fa-vimeo-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-vimeo": {
+		"prefix": "fa-vimeo",
+		"body": "fa-vimeo",
+		"description": "fontawesome fa-vimeo",
+		"scope": "text.html.markdown"
+	},
+	"fa-vine": {
+		"prefix": "fa-vine",
+		"body": "fa-vine",
+		"description": "fontawesome fa-vine",
+		"scope": "text.html.markdown"
+	},
+	"fa-vk": {
+		"prefix": "fa-vk",
+		"body": "fa-vk",
+		"description": "fontawesome fa-vk",
+		"scope": "text.html.markdown"
+	},
+	"fa-volume-down": {
+		"prefix": "fa-volume-down",
+		"body": "fa-volume-down",
+		"description": "fontawesome fa-volume-down",
+		"scope": "text.html.markdown"
+	},
+	"fa-volume-off": {
+		"prefix": "fa-volume-off",
+		"body": "fa-volume-off",
+		"description": "fontawesome fa-volume-off",
+		"scope": "text.html.markdown"
+	},
+	"fa-volume-up": {
+		"prefix": "fa-volume-up",
+		"body": "fa-volume-up",
+		"description": "fontawesome fa-volume-up",
+		"scope": "text.html.markdown"
+	},
+	"fa-warning": {
+		"prefix": "fa-warning",
+		"body": "fa-warning",
+		"description": "fontawesome fa-warning",
+		"scope": "text.html.markdown"
+	},
+	"fa-wechat": {
+		"prefix": "fa-wechat",
+		"body": "fa-wechat",
+		"description": "fontawesome fa-wechat",
+		"scope": "text.html.markdown"
+	},
+	"fa-weibo": {
+		"prefix": "fa-weibo",
+		"body": "fa-weibo",
+		"description": "fontawesome fa-weibo",
+		"scope": "text.html.markdown"
+	},
+	"fa-weixin": {
+		"prefix": "fa-weixin",
+		"body": "fa-weixin",
+		"description": "fontawesome fa-weixin",
+		"scope": "text.html.markdown"
+	},
+	"fa-whatsapp": {
+		"prefix": "fa-whatsapp",
+		"body": "fa-whatsapp",
+		"description": "fontawesome fa-whatsapp",
+		"scope": "text.html.markdown"
+	},
+	"fa-wheelchair": {
+		"prefix": "fa-wheelchair",
+		"body": "fa-wheelchair",
+		"description": "fontawesome fa-wheelchair",
+		"scope": "text.html.markdown"
+	},
+	"fa-wifi": {
+		"prefix": "fa-wifi",
+		"body": "fa-wifi",
+		"description": "fontawesome fa-wifi",
+		"scope": "text.html.markdown"
+	},
+	"fa-wikipedia-w": {
+		"prefix": "fa-wikipedia-w",
+		"body": "fa-wikipedia-w",
+		"description": "fontawesome fa-wikipedia-w",
+		"scope": "text.html.markdown"
+	},
+	"fa-windows": {
+		"prefix": "fa-windows",
+		"body": "fa-windows",
+		"description": "fontawesome fa-windows",
+		"scope": "text.html.markdown"
+	},
+	"fa-won": {
+		"prefix": "fa-won",
+		"body": "fa-won",
+		"description": "fontawesome fa-won",
+		"scope": "text.html.markdown"
+	},
+	"fa-wordpress": {
+		"prefix": "fa-wordpress",
+		"body": "fa-wordpress",
+		"description": "fontawesome fa-wordpress",
+		"scope": "text.html.markdown"
+	},
+	"fa-wrench": {
+		"prefix": "fa-wrench",
+		"body": "fa-wrench",
+		"description": "fontawesome fa-wrench",
+		"scope": "text.html.markdown"
+	},
+	"fa-xing-square": {
+		"prefix": "fa-xing-square",
+		"body": "fa-xing-square",
+		"description": "fontawesome fa-xing-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-xing": {
+		"prefix": "fa-xing",
+		"body": "fa-xing",
+		"description": "fontawesome fa-xing",
+		"scope": "text.html.markdown"
+	},
+	"fa-y-combinator-square": {
+		"prefix": "fa-y-combinator-square",
+		"body": "fa-y-combinator-square",
+		"description": "fontawesome fa-y-combinator-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-y-combinator": {
+		"prefix": "fa-y-combinator",
+		"body": "fa-y-combinator",
+		"description": "fontawesome fa-y-combinator",
+		"scope": "text.html.markdown"
+	},
+	"fa-yahoo": {
+		"prefix": "fa-yahoo",
+		"body": "fa-yahoo",
+		"description": "fontawesome fa-yahoo",
+		"scope": "text.html.markdown"
+	},
+	"fa-yc-square": {
+		"prefix": "fa-yc-square",
+		"body": "fa-yc-square",
+		"description": "fontawesome fa-yc-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-yc": {
+		"prefix": "fa-yc",
+		"body": "fa-yc",
+		"description": "fontawesome fa-yc",
+		"scope": "text.html.markdown"
+	},
+	"fa-yelp": {
+		"prefix": "fa-yelp",
+		"body": "fa-yelp",
+		"description": "fontawesome fa-yelp",
+		"scope": "text.html.markdown"
+	},
+	"fa-yen": {
+		"prefix": "fa-yen",
+		"body": "fa-yen",
+		"description": "fontawesome fa-yen",
+		"scope": "text.html.markdown"
+	},
+	"fa-youtube-play": {
+		"prefix": "fa-youtube-play",
+		"body": "fa-youtube-play",
+		"description": "fontawesome fa-youtube-play",
+		"scope": "text.html.markdown"
+	},
+	"fa-youtube-square": {
+		"prefix": "fa-youtube-square",
+		"body": "fa-youtube-square",
+		"description": "fontawesome fa-youtube-square",
+		"scope": "text.html.markdown"
+	},
+	"fa-youtube": {
+		"prefix": "fa-youtube",
+		"body": "fa-youtube",
+		"description": "fontawesome fa-youtube",
+		"scope": "text.html.markdown"
+	}
+}
