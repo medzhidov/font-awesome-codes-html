@@ -2,7 +2,7 @@
     "name": "font-awesome-codes-html",
     "displayName": "font-awesome-codes-html",
     "description": "Just snippet for find font-awesome codes in html",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "medzhidov",
     "engines": {
         "vscode": "^1.0.0"
@@ -20,6 +20,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dslpp056193/hex-rgba-converter"
+        "url": "https://github.com/dslpp056193/font-awesome-codes-html"
     }
 }
