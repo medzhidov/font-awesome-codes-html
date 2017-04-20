@@ -2,7 +2,7 @@
     "name": "font-awesome-codes-html",
     "displayName": "Font-awesome codes for html (snippets)",
     "description": "Just snippet for create font-awesome codes in html",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "medzhidov",
     "engines": {
         "vscode": "^1.0.0"
