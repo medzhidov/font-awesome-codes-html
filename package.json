@@ -23,6 +23,14 @@
             {
                 "language": "typescriptreact",
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "pug",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "ejs",
+                "path": "./snippets/snippets.json"
             }
         ]
     },
